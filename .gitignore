@@ -1,0 +1,11 @@
+/*.gba
+/*.srl
+/*.ss*
+/*.sav
+/*.sa1
+/*.sa2
+/*.zip
+.env
+/*.sym
+/Scripts/Compilados/*.msg
+copy_roms_to_anbernic.bat

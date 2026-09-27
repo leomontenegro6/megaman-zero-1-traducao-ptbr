@@ -1,0 +1,108 @@
+Title: Mega Man Zero 1 Revisited
+Author: PowerPanda
+Version: 1.0
+Applies to: Mega Man Zero GBA (USA, Europe)
+(No-Intro version  20130720-015858)
+ROM/File SHA-1: 193B14120119162518A73C70876F0B8BFFDBD96E
+
+Contents:  mmz1_revisited.ips		The Main Patch
+		--individual patches--
+	   mmz1_antigrind.ips	 	Cyber-elf costs half of MMZ2
+	   mmz1_antigrind_alt_mmz2.ips	Cyber-elf costs same as MMZ2
+	   mmz1_mission_penalty.ips	Mission penalty adjustment for cyber elves and damage
+	   mmz1_9_retries.ips		Start the game with 9 Retries
+
+--------------------------------------------------------------------------------
+-=Intro and Description=-
+Mega Man Zero was an ambitious and experimental release. Most of it worked, but the character progression felt rough. The main problems were:
+1. Weapon upgrades took too long to grind out
+2. Cyber Elves took too many E-Crystals to evolve
+3. Permanent upgrades gave the player a permanent penalty score on missions
+4. The game started you with 3 retries and never gave you more
+
+Capcom recognized these problems, and made changes in MMZ2. Weapons leveled up in half of the time. Cyber Elves took around 1/3 of the E-Crystals to evolve. When you continued, you got 2 free retries. As a result, when playing through the series, MMZ1 feels significantly rougher than MMZ2. The series would be further refined in MMZ3.
+
+This series of 3 patches addresses issues in MMZ1.
+
+*mmz1_antigrind: This patch ports the weapon experience requirements from MMZ2 back to MMZ1. It also sets Cyber Elf E-Crystal costs to values that are 1/2 of MMZ2, and roughly 1/6th of MMZ1's original costs. For example, your subtanks have gone from a cost of 1200 E-Crystals to 200.
+
+*mmz1_antigrind_alt_mmz2: An alternate version of mmz1_antigrind that sets Cyber Elf costs to the same values as MMZ2. Do not apply both antigrind patches.
+
+*mmz1_9_retries: This small patch starts a new game with 9 lives. MMZ1, unlike its successors, does not replenish your lives (aka retries) after game-over. The retries you get from the start are all you get for the rest of the game, unless enemies drop them. If you run out of lives, you permanently fail the mission you are on. This gives you a full life counter from the beginning.
+
+*mmz1_elf_penalty: This patch eliminates the mission penalty score from cyber-elves that you must raise with E-Crystals. This includes permanent upgrades, but also the hackers that eliminate small enemies and cut boss HP. In turn, the penalty for each one-time use Cyber Elf used during a mission has been increased from 2 to 5. You will never go negative, but if you use 3 one-time use Cyber Elves, your score will be 0. Additionally, the penalty for damage taken during a mission has been decreased from 1p per 3 damage to MMZ3's more forgiving 1p per 6 damage.
+
+--------------------------------------------------------------------------------
+-=Patching Instructions and Compatibility=-
+These patches can be applied to the rom using Lunar IPS, or a similar program. If using individual patches, choose one antigrind patch or the other, but do not use both. 
+
+These patches ONLY update the specific values for weapon experience and cyber-elf e-crystals, and do not relocate any other code, so they should be compatible with any other patch used.
+
+--------------------------------------------------------------------------------
+-=Credits=-
+Hacking: PowerPanda
+
+Weapon Experience Locations: acediez
+Mission Penalty Locations: PowerPanda
+Cyber-Elf Cost Locations: ElwinBran
+Programs Used: HxD (Hex Editing), no$gba (Debugging), VBA (Testing)
+
+--------------------------------------------------------------------------------
+-=Code Changes=-
+
+CHANGE MISSION PENALY FOR DAMAGE TAKEN
+2B/8166
+03 > 06		;1p lost for every 6 damage taken
+
+DISABLE PENALTY FOR PERMANENT UPGRADES
+2B/8165
+0A > 00		;penalty for permanent upgrades reduced from 10 to 0
+02 > 05		;penalty for temporary upgrades increased from 02 to 05
+
+START WTIH 9 RETRIES
+00/F3EC	0321 > 0921	;sets the number 9 instead of the number 3
+
+SPECIAL MOVES
+01/88A2 (Buster Shot Up)  FF > 80
+01/8A60	(Saber Air Roll)  FF > 80
+01/8A1C	(Saber Dash Roll) FF > 80
+
+2A/8168 (Buster Levels)
+Lvl 2	9001 > C800
+Lvl 3	B004 > 5802
+
+2A/8184 (Saber Levels)
+Lvl 2	2800 > 1E00
+Lvl 3	A000 > 5A00
+Lvl 4	3002 > 2201
+Lvl 5	9006 > 5203
+
+2A/81BE (Triple Rod Levels)
+Lvl 2	2800 > 1E00
+Lvl 3	A000 > 5A00
+Lvl 4	3002 > 2201
+Lvl 5	3007 > A203
+
+2A/81D6 (Shield Boomerang Levels)
+Lvl 2	3C00 > 1E00
+Lvl 3	A000 > 5A00
+
+CYBER ELF COSTS
+2B/727C
+Orig. 		AntiGrind	Alt_MMZ2
+E8 03		96 00		2C 01
+B8 0B		F4 01		E8 03
+EE 02		7D 00		FA 00
+B0 04		C8 00		90 01
+F4 01		64 00		C8 00
+D0 07		5E 01		BC 02
+E8 03		96 00		2C 01
+C8 00		23 00		46 00
+90 10		4B 00		96 00
+EE 02		7D 00		FA 00
+DC 05		FA 00		F4 01
+AC 0D		58 02		E2 04
+E2 04		96 00		2C 01
+E8 03		96 00		2C 01
+DC 05		FA 00		F4 01
+94 11		EE 02		DC 05
