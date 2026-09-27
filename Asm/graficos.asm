@@ -9,4 +9,8 @@
 .org 0x080D0D90
     .incbin "Graficos/Editados/Fonte pequena.gba"
 
+; Inserindo copyright.
+.org 0x082F4B14
+    .incbin "Graficos/Editados/Copyright.gba"
+
 .close

@@ -2,6 +2,7 @@
 $graficos = [
     (object)['nome' => 'Fonte dialogos', 'offset' => '0x0C9590', 'tiles' => '16x60', 'codec' => '4bpp'],
     (object)['nome' => 'Fonte pequena', 'offset' => '0x0D0D90', 'tiles' => '16x8', 'codec' => '4bpp'],
+    (object)['nome' => 'Copyright', 'offset' => '0x2F4B14', 'tiles' => '29x2', 'codec' => '8bpp'],
     (object)['nome' => 'Menu Status', 'offset' => '0x2F5A94', 'tiles' => '32x16', 'codec' => '4bpp'],
     (object)['nome' => 'Menu Opcoes', 'offset' => '0x2F9A94', 'tiles' => '32x16', 'codec' => '4bpp'],
     (object)['nome' => 'Tela Resultados', 'offset' => '0x2FFE34', 'tiles' => '32x16', 'codec' => '4bpp'],
