@@ -1808,10 +1808,7 @@ script 83 mmz1 {
 	msgClear
 	"""
 	Deixa comigo, eu
-	aviso se alguma 
-	"""
-	msgClear
-	"""
+	aviso se alguma
 	coisa acontecer.
 	"""
 	end

@@ -1,3 +1,2 @@
-- Re-editar gráfico "RESULT." da tela de resultados, de modo a deixá-lo desabreviado
-- Ver forma de incluir o script de codenomes, usando a fonte pequena
+- Revisar codenomes
 - Alinhar nomes dos créditos para ficarem mais à direita (via ASM, porque no .tpl não tem espaço)

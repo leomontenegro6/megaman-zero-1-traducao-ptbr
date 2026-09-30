@@ -83,7 +83,7 @@ script 5 mmz1 {
 	mugshotShow
 		mugshot = 56
 	"""
-	Er... ahá. Ahem.
+	Er... ahá. A-ham.
 	Obrigado. Nunca
 	imaginei que alguém
 	viria me salvar.

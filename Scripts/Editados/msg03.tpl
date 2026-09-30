@@ -452,7 +452,7 @@ script 29 mmz1 {
 	mugshotShow
 		mugshot = 7
 	"""
-	"Respira" um pouco.
+	Respira um pouco.
 	Você deve estar com
 	uma "ressaca" da
 	hibernação.
@@ -513,7 +513,7 @@ script 30 mmz1 {
 	Entre no
 	Transervidor
 	e aperte
-	Direcional - Cima
+	[ControlPad1][ArrowUp1]
 	"""
 	msgClear
 	"""
@@ -528,8 +528,7 @@ script 31 mmz1 {
 	"""
 	Entre no
 	Transervidor
-	e aperte
-	Direcional - Cima
+	e aperte [ControlPad1][F007][ArrowUp1][ArrowUp2]
 	"""
 	msgClear
 	"""

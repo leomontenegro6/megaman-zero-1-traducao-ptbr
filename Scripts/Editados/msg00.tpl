@@ -288,8 +288,8 @@ script 13 mmz1 {
 	msgClear
 	"""
 	Então tá, a gente
-	vai	dar um jeito de
-	nos	virarmos
+	vai dar um jeito de
+	nos virarmos
 	sozinhos.
 	"""
 	msgClear
@@ -355,7 +355,7 @@ script 14 mmz1 {
 	msgClear
 	"""
 	temos que destruir
-	aquele lugar....
+	aquele lugar...
 	"""
 	end
 }
@@ -426,7 +426,7 @@ script 15 mmz1 {
 	msgClear
 	"""
 	temos que destruir
-	aquele lugar....
+	aquele lugar...
 	"""
 	end
 }
@@ -935,9 +935,6 @@ script 31 mmz1 {
 	Mesmo que você não
 	consiga matá-lo,
 	eu quero você volte
-	"""
-	msgClear
-	"""
 	em segurança.
 	"""
 	msgClear
@@ -1936,9 +1933,6 @@ script 70 mmz1 {
 	Mesmo que você não
 	consiga matá-lo,
 	eu quero você volte
-	"""
-	msgClear
-	"""
 	em segurança.
 	"""
 	msgClear

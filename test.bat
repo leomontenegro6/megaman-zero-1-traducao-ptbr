@@ -4,9 +4,9 @@
 FOR /F "eol=# tokens=*" %%i IN (%~dp0.env) DO SET %%i
 SET CURRENTDIR=%cd%
 
-IF "%2" == "vbalink" GOTO vbalink
-IF "%2" == "nocash" GOTO nocash
-IF "%2" == "mesen" GOTO mesen
+IF "%1" == "vbalink" GOTO vbalink
+IF "%1" == "nocash" GOTO nocash
+IF "%1" == "mesen" GOTO mesen
 GOTO mgba
 
 :mgba
