@@ -512,8 +512,7 @@ script 30 mmz1 {
 	"""
 	Entre no
 	Transervidor
-	e aperte
-	[ControlPad1][ArrowUp1]
+	e aperte [ControlPad1][F007][ArrowUp1][ArrowUp2]
 	"""
 	msgClear
 	"""

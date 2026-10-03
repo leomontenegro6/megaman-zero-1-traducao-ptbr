@@ -3,13 +3,54 @@
 
 .open "mmz1.gba", 0x08000000
 
+; Codenomes na tela de status, na forma de tilemaps.
+.loadtable "Tabelas/tilemap_codinomes.tbl"
+.org 0x082CBFEE
+    .stringn "  CAÇADOR"
+.org 0x082CC000
+    .stringn "GUERREIRO"
+.org 0x082CC012
+    .stringn "    HERÓI"
+.org 0x082CC024
+    .stringn "{super-herói}" ; Encurtado com tiles sobrando
+.org 0x082CC036
+    .stringn " SALVADOR"
+.org 0x082CC048
+    .stringn "  IMORTAL"
+.org 0x082CC05A
+    .stringn "PACIFISTA"
+.org 0x082CC06C
+    .stringn " CORREDOR"
+.org 0x082CC07E
+    .stringn "{destruidor}" ; Encurtado com tiles sobrando
+.org 0x082CC090
+    .stringn "ASSASSINO"
+.org 0x082CC0A2
+    .stringn " ATIRADOR"
+.org 0x082CC0C6
+    .stringn "    LESMA"
+.org 0x082CC0D8
+    .stringn "{enferrujado}" ; Encurtado com tiles sobrando
+.org 0x082CC0EA
+    .stringn "  ACABADO"
+.org 0x082CC0FC
+    .stringn "   SUCATA"
+.org 0x082CC10E
+    .stringn "TRITURADO"
+.org 0x082CC120
+    .stringn "{colecionador}" ; Encurtado com tiles sobrando
+.org 0x082CC132
+    .stringn "  MEDROSO"
+
+; Script de textos diversos, inserido no mesmo offset do original,
+; porém delimitado para não passar do offset onde ele termina.
 .org 0x082B8F3C
 .area 0x082BB1C5 - 0x082B8F3C, 0xFF
     .incbin "Scripts/Compilados/misc_text.msg"
 .endarea
 
-; Scripts inseridos no final da rom.
 ; Catalogando ponteiros dos scripts.
+; Scripts do modo história, inseridos no final da rom.
 .org 0x082BB1D4
     .dw Msg00
 .org 0x082BB220
@@ -105,10 +146,50 @@
 .org 0x082BB268
     .dw Msg12 + 0x0038
 
+.org 0x0829FA74
+    .dw ResultsMaster
+.org 0x0829FA70
+    .dw ResultsFearful
+.org 0x0829FA6C
+    .dw ResultsCollector
+.org 0x0829FA68
+    .dw ResultsCrasher
+.org 0x0829FA64
+    .dw ResultsScrapper
+.org 0x0829FA60
+    .dw ResultsLazy
+.org 0x0829FA5C
+    .dw ResultsBuggy
+.org 0x0829FA58
+    .dw ResultsSlowpoke
+.org 0x0829FA50
+    .dw ResultsSniper
+.org 0x0829FA4C
+    .dw ResultsSlayer
+.org 0x0829FA48
+    .dw ResultsDestroyer
+.org 0x0829FA44
+    .dw ResultsSpeedster
+.org 0x0829FA40
+    .dw ResultsPacifist
+.org 0x0829FA3C
+    .dw ResultsImmortal
+.org 0x0829FA38
+    .dw ResultsSavior
+.org 0x0829FA34
+    .dw ResultsSuperhero
+.org 0x0829FA30
+    .dw ResultsHero
+.org 0x0829FA2C
+    .dw ResultsWarrior
+.org 0x0829FA28
+    .dw ResultsHunter
+
 ; Inserindo dados no final da rom
 .orga filesize("mmz1.gba")
 .align
 
+; Scripts compilados
 Msg00:
     .incbin "Scripts/Compilados/msg00.msg"
     .align
@@ -183,6 +264,84 @@ Msg11:
 
 Msg12:
     .incbin "Scripts/Compilados/msg12.msg"
+    .align
+
+; Codinomes na tela de resultados
+.loadtable "Tabelas/fonte_pequena.tbl"
+ResultsMaster:
+    .stringn "MESTRE", 0x00
+    .align
+
+ResultsFearful:
+    .stringn "COVARDE", 0x00
+    .align
+
+ResultsCollector:
+    .stringn "{colecionador}", 0x00
+    .align
+
+ResultsCrasher:
+    .stringn "TRITURADO", 0x00
+    .align
+
+ResultsScrapper:
+    .stringn "SUCATA", 0x00
+    .align
+
+ResultsLazy:
+    .stringn "ACABADO", 0x00
+    .align
+
+ResultsBuggy:
+    .stringn "{enferrujado}", 0x00
+    .align
+
+ResultsSlowpoke:
+    .stringn "LESMA", 0x00
+    .align
+
+ResultsSniper:
+    .stringn "ATIRADOR", 0x00
+    .align
+
+ResultsSlayer:
+    .stringn "ASSASSINO", 0x00
+    .align
+
+ResultsDestroyer:
+    .stringn "DESTRUIDOR", 0x00
+    .align
+
+ResultsSpeedster:
+    .stringn "CORREDOR", 0x00
+    .align
+
+ResultsPacifist:
+    .stringn "PACIFISTA", 0x00
+    .align
+
+ResultsImmortal:
+    .stringn "IMORTAL", 0x00
+    .align
+
+ResultsSavior:
+    .stringn "SALVADOR", 0x00
+    .align
+
+ResultsSuperhero:
+    .stringn "SUPER-HERÓI", 0x00
+    .align
+
+ResultsHero:
+    .stringn "HERÓI", 0x00
+    .align
+
+ResultsWarrior:
+    .stringn "GUERREIRO", 0x00
+    .align
+
+ResultsHunter:
+    .stringn "CAÇADOR", 0x00
     .align
 
 .close

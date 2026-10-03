@@ -603,7 +603,7 @@ script 73 mmz1 {
 script 74 mmz1 {
 	textColorRed
 	"""
-	SUPERHERÓI
+	SUPER-HERÓI
 	"""
 	textColorWhite
 	end
@@ -715,7 +715,7 @@ script 87 mmz1 {
 script 88 mmz1 {
 	textColorRed
 	"""
-	COLETOR
+	COLECIONADOR
 	"""
 	textColorWhite
 	end
@@ -723,7 +723,7 @@ script 88 mmz1 {
 script 89 mmz1 {
 	textColorRed
 	"""
-	DESTEMIDO
+	COVARDE
 	"""
 	textColorWhite
 	end
