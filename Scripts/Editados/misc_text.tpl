@@ -164,7 +164,7 @@ script 25 mmz1 {
 }
 script 26 mmz1 {
 	"""
-	Núcleo de Nova Arcádia
+	Núcleo{_de_}{Nova_Arcad.}
 	"""
 	end
 }
@@ -282,7 +282,7 @@ script 47 mmz1 {
 }
 script 48 mmz1 {
 	"""
-	Centro de descarte
+	Centro{_de_}descarte
 	"""
 	end
 }
@@ -300,19 +300,19 @@ script 50 mmz1 {
 }
 script 51 mmz1 {
 	"""
-	Santuário de N Arcádia
+	Santuário{_de_}{Nova_Arcadia}
 	"""
 	end
 }
 script 52 mmz1 {
 	"""
-	Torre de N Arcádia
+	Torre{_de_}{Nova_Arcadia}
 	"""
 	end
 }
 script 53 mmz1 {
 	"""
-	Núcleo de N Arcádia
+	Núcleo{_de_}{Nova_Arcadia}
 	"""
 	end
 }
@@ -341,23 +341,7 @@ script 55 mmz1 {
 script 56 mmz1 {
 	textColorRed
 	"""
-	Centro
-	"""
-	textColorWhite
-	"""
-	 
-	"""
-	textColorRed
-	"""
-	de
-	"""
-	textColorWhite
-	"""
-		 
-	"""
-	textColorRed
-	"""
-	descarte
+	Centro{_de_}descarte
 	"""
 	textColorWhite
 	end
@@ -381,31 +365,7 @@ script 58 mmz1 {
 script 59 mmz1 {
 	textColorRed
 	"""
-	Santuário
-	"""
-	textColorWhite
-	"""
-	 
-	"""
-	textColorRed
-	"""
-	de
-	"""
-	textColorWhite
-	"""
-	 
-	"""
-	textColorRed
-	"""
-	N
-	"""
-	textColorWhite
-	"""
-	 
-	"""
-	textColorRed
-	"""
-	Arcádia
+	Santuário{_de_}{Nova_Arcadia}
 	"""
 	textColorWhite
 	end
@@ -413,31 +373,7 @@ script 59 mmz1 {
 script 60 mmz1 {
 	textColorRed
 	"""
-	Torre
-	"""
-	textColorWhite
-	"""
-	 
-	"""
-	textColorRed
-	"""
-	de
-	"""
-	textColorWhite
-	"""
-	 
-	"""
-	textColorRed
-	"""
-	N
-	"""
-	textColorWhite
-	"""
-	 
-	"""
-	textColorRed
-	"""
-	Arcádia
+	Torre{_de_}{Nova_Arcadia}
 	"""
 	textColorWhite
 	end
@@ -445,31 +381,7 @@ script 60 mmz1 {
 script 61 mmz1 {
 	textColorRed
 	"""
-	Núcleo
-	"""
-	textColorWhite
-	"""
-	 
-	"""
-	textColorRed
-	"""
-	de
-	"""
-	textColorWhite
-	"""
-	 
-	"""
-	textColorRed
-	"""
-	N
-	"""
-	textColorWhite
-	"""
-	 
-	"""
-	textColorRed
-	"""
-	Arcádia
+	Núcleo{_de_}{Nova_Arcadia}
 	"""
 	textColorWhite
 	end
@@ -1238,9 +1150,9 @@ script 200 mmz1 {
 }
 script 201 mmz1 {
 	"""
-	Aumento a
-	saúde um
-	pouco.
+	Aumento
+	levemente
+	a saúde.
 	"""
 	end
 }
