@@ -1206,7 +1206,7 @@ script 177 mmz1 {
 }
 script 178 mmz1 {
 	"""
-	Enfermeiro
+	{enfermeiro}
 	"""
 	end
 }
@@ -1239,16 +1239,15 @@ script 200 mmz1 {
 script 201 mmz1 {
 	"""
 	Aumento a
-	saúde
-	ligeramente.
+	saúde um
+	pouco.
 	"""
 	end
 }
 script 202 mmz1 {
 	"""
 	Você quer
-	mais
-	saúde?
+	{mais} saúde?
 	"""
 	end
 }
@@ -1262,9 +1261,9 @@ script 203 mmz1 {
 }
 script 204 mmz1 {
 	"""
-	Sacrifi-
-	que-me para
-	saúde.
+	Me sacri-
+	fique para
+	{mais} saúde.
 	"""
 	end
 }
@@ -1286,14 +1285,14 @@ script 206 mmz1 {
 script 207 mmz1 {
 	"""
 	Se quiser,
-	eu serei um
+	serei um
 	Subtanque.
 	"""
 	end
 }
 script 208 mmz1 {
 	"""
-	Sacrifique
+	Sacri{fique-}
 	me para um
 	Subtanque.
 	"""
@@ -1311,7 +1310,7 @@ script 210 mmz1 {
 	"""
 	Use minha
 	energia
-	para saúde.
+	pra saúde.
 	"""
 	end
 }
@@ -1349,8 +1348,8 @@ script 214 mmz1 {
 }
 script 215 mmz1 {
 	"""
-	Sacrifi-
-	que-me para
+	Me sacri-
+	fique para
 	se curar.
 	"""
 	end
@@ -1382,15 +1381,15 @@ script 218 mmz1 {
 script 219 mmz1 {
 	"""
 	Vou te cu-
-	rar com-
-	pletamente!
+	rar com{ple-}
+	tamente!
 	"""
 	end
 }
 script 220 mmz1 {
 	"""
-	Quer que eu
-	te cure por
+	Quer{_que_}eu
+	te{_cure_}por
 	completo?
 	"""
 	end
@@ -1415,7 +1414,7 @@ script 223 mmz1 {
 	"""
 	Me machuco
 	mas você é
-	é curado.
+	curado.
 	"""
 	end
 }
@@ -1437,9 +1436,9 @@ script 225 mmz1 {
 }
 script 226 mmz1 {
 	"""
-	Eu me ma-
-	chuco e te
-	curo.
+	Eu me
+	machuco e
+	te curo.
 	"""
 	end
 }
@@ -1517,16 +1516,16 @@ script 235 mmz1 {
 }
 script 236 mmz1 {
 	"""
-	Eu te tiro
-	de qual-
-	quer poço!
+	Te tiro de
+	qualquer
+	poço!
 	"""
 	end
 }
 script 237 mmz1 {
 	"""
-	Eu te tiro
-	de qualquer
+	Te tiro de
+	qualquer
 	buraco!
 	"""
 	end
@@ -1549,7 +1548,7 @@ script 239 mmz1 {
 script 240 mmz1 {
 	"""
 	Minha arma
-	de dá
+	te dá
 	cobertura.
 	"""
 	end
@@ -1564,8 +1563,8 @@ script 241 mmz1 {
 }
 script 242 mmz1 {
 	"""
-	Eu vou te
-	dar
+	Eu vou
+	te dar
 	cobertura.
 	"""
 	end
@@ -1573,8 +1572,8 @@ script 242 mmz1 {
 script 243 mmz1 {
 	"""
 	Minhas
-	balas te
-	ajudarão.
+	balas vão
+	te ajudar.
 	"""
 	end
 }
@@ -1588,15 +1587,15 @@ script 244 mmz1 {
 }
 script 245 mmz1 {
 	"""
-	Posso ator
-	doar certos
+	Posso {ator-}
+	doar uns
 	inimigos.
 	"""
 	end
 }
 script 246 mmz1 {
 	"""
-	Seu inmigo
+	Seu{_ini}migo
 	não me
 	machuca!
 	"""
@@ -1604,7 +1603,7 @@ script 246 mmz1 {
 }
 script 247 mmz1 {
 	"""
-	Use-me para
+	Me use pra
 	atordoar
 	inimigos.
 	"""
@@ -1644,7 +1643,7 @@ script 251 mmz1 {
 }
 script 252 mmz1 {
 	"""
-	Eu te ajudo
+	Eu{_te_}ajudo
 	onde há
 	espinhos.
 	"""
@@ -1660,8 +1659,8 @@ script 253 mmz1 {
 }
 script 254 mmz1 {
 	"""
-	Eu acabo
-	com inimigos
+	Acabo com
+	inimigos
 	pequenos!
 	"""
 	end
@@ -1709,7 +1708,7 @@ script 259 mmz1 {
 script 260 mmz1 {
 	"""
 	Inimigos
-	serão ator
+	serão {ator-}
 	doados!
 	"""
 	end
@@ -1732,7 +1731,7 @@ script 262 mmz1 {
 }
 script 263 mmz1 {
 	"""
-	Desacelerar
+	Desac{ele}rar
 	o tempo?
 	Só pedir!
 	"""
@@ -1750,7 +1749,7 @@ script 265 mmz1 {
 	"""
 	Meu poder
 	te dará
-	mais tempo.
+	mais temp{o.}
 	"""
 	end
 }
@@ -1758,7 +1757,7 @@ script 266 mmz1 {
 	"""
 	Conte co-
 	migo para
-	mais tempo.
+	mais temp{o.}
 	"""
 	end
 }
@@ -1772,10 +1771,9 @@ script 267 mmz1 {
 }
 script 268 mmz1 {
 	"""
-	Inimigos
-	pequenos
-	soltarão
-	um item.
+	Itens sem-
+	pre{_caem_}de
+	inimigos.
 	"""
 	end
 }
@@ -1783,39 +1781,39 @@ script 269 mmz1 {
 	"""
 	Use-me pa-
 	ra conse-
-	guir itens.
+	guir iten{s.}
 	"""
 	end
 }
 script 270 mmz1 {
 	"""
-	Farei o
-	inimigo sol-
-	soltar itens!
+	Farei ini-
+	migo sol-
+	tar itens!
 	"""
 	end
 }
 script 271 mmz1 {
 	"""
-	Use-me pa-
-	ra conse-
-	guir itens!
+	Me use pra
+	conseguir
+	itens!
 	"""
 	end
 }
 script 272 mmz1 {
 	"""
-	Eu trans-
-	formo eles
-	em Metalls.
+	Transformo
+	eles em
+	Mettaurs.
 	"""
 	end
 }
 script 273 mmz1 {
 	"""
-	Eu faço
-	inimigos
-	de Metalls.
+	Faço ini-
+	migos de
+	Mettaurs.
 	"""
 	end
 }
@@ -1823,7 +1821,7 @@ script 274 mmz1 {
 	"""
 	Eles vão
 	virar
-	Metalls.
+	Mettaurs.
 	"""
 	end
 }
@@ -1831,15 +1829,15 @@ script 275 mmz1 {
 	"""
 	Inimigos
 	vão virar
-	Mettals!
+	Mettaurs!
 	"""
 	end
 }
 script 276 mmz1 {
 	"""
-	Eu faço
-	inimigos de
-	Mettalls.
+	Faço{_ini}mi-
+	gos virar
+	Mettaurs.
 	"""
 	end
 }
@@ -1847,7 +1845,7 @@ script 277 mmz1 {
 	"""
 	Segure Pu-
 	lar para a
-	supremacia!
+	supremaci{a!}
 	"""
 	end
 }
@@ -1877,9 +1875,9 @@ script 280 mmz1 {
 }
 script 281 mmz1 {
 	"""
-	Eles aumen-
-	tam as suas
-	habilidades.
+	Aumentam
+	as suas
+	hab{ili}dade{s.}
 	"""
 	end
 }
@@ -2186,7 +2184,7 @@ script 322 mmz1 {
 }
 script 323 mmz1 {
 	"""
-	Adiciona o poder da fogo.
+	Adiciona o poder do fogo.
 	"""
 	end
 }
@@ -2222,7 +2220,7 @@ script 328 mmz1 {
 }
 script 329 mmz1 {
 	"""
-	Recupera um pouco de energia.
+	Recupera{_um_}pouco{_de_}energia.
 	"""
 	end
 }
@@ -2252,7 +2250,7 @@ script 333 mmz1 {
 }
 script 334 mmz1 {
 	"""
-	Reduz a velocidade de deslize.
+	Reduz{_a_}velocidade{_de_}deslize.
 	"""
 	end
 }
@@ -2306,13 +2304,13 @@ script 342 mmz1 {
 }
 script 343 mmz1 {
 	"""
-	Corta a saúde do chefe em 50%.
+	Corta{_a_}saúde{_de_}chefes{_em_}50%.
 	"""
 	end
 }
 script 344 mmz1 {
 	"""
-	Atordoa alguns inimigos temporariamente.
+	Atordoa alguns inimigos.
 	"""
 	end
 }
@@ -2324,13 +2322,13 @@ script 345 mmz1 {
 }
 script 346 mmz1 {
 	"""
-	Inimigos derrotados soltarão itens.
+	Inimigos soltarão {mais} itens.
 	"""
 	end
 }
 script 347 mmz1 {
 	"""
-	Transforma inimigos em Mettalls.
+	Inimigos virarão Mettaurs.
 	"""
 	end
 }

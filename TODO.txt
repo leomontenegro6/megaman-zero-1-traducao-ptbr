@@ -1,4 +1,3 @@
-- Revisar textos dos cyber-elfos, ajustando para a janela
 - Revisar nomes das localidades, para tentar desabreviar "N Arcádia"
 - Cogitar possibilidade de fazer fandub das poucas vozes dentro do jogo (o MISSION da Ciel)
 - Alinhar nomes dos créditos para ficarem mais à direita (via ASM, porque no .tpl não tem espaço)
