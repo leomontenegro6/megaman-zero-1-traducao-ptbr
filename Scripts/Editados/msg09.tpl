@@ -6,7 +6,7 @@ script 0 mmz1 {
 		mugshot = 42
 	"""
 	CIEL:
-	"Se você for
+	“Se você for
 	detectado pelos
 	sensores da
 	"""
@@ -18,12 +18,12 @@ script 0 mmz1 {
 	"""
 	msgClear
 	"""
-	avançar!"
+	avançar!”
 	"""
 	msgClear
 	"""
 	CIEL:
-	Cuidado!
+	“Cuidado!”
 	"""
 	end
 }
@@ -148,28 +148,28 @@ script 7 mmz1 {
 		mugshot = 42
 	"""
 	SOLDADO:
-	"Zero, nós tomamos
+	“Zero, nós tomamos
 	todos os andares!
 	"""
 	msgClear
 	"""
-	Missão cumprida!!"
+	Missão cumprida!!”
 	"""
 	msgClear
 	mugshotShow
 		mugshot = 42
 	"""
 	CIEL:
-	"Bom trabalho,
-	 Zero...
-	 Obrigada.
+	“Bom trabalho,
+	Zero...
+	Obrigada.
 	"""
 	msgClear
 	"""
 	CIEL:
 	Não esqueça de pegar
 	o Chip de fogo antes
-	de voltar!"
+	de voltar!”
 	"""
 	end
 }

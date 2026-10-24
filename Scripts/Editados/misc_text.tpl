@@ -22,14 +22,14 @@ script 2 mmz1 {
 script 3 mmz1 {
 	textColorRed
 	"""
-	H
+	D
 	"""
 	end
 }
 script 4 mmz1 {
 	textColorRed
 	"""
-	U
+	S
 	"""
 	end
 }
@@ -1978,7 +1978,7 @@ script 312 mmz1 {
 }
 script 313 mmz1 {
 	"""
-	Lança tripla
+	Lança Tripla
 	"""
 	textColorRed
 	"""
@@ -1992,7 +1992,7 @@ script 313 mmz1 {
 }
 script 314 mmz1 {
 	"""
-	Lança tripla
+	Lança Tripla
 	"""
 	textColorRed
 	"""
@@ -2006,7 +2006,7 @@ script 314 mmz1 {
 }
 script 315 mmz1 {
 	"""
-	Lança tripla
+	Lança Tripla
 	"""
 	textColorRed
 	"""
@@ -2020,7 +2020,7 @@ script 315 mmz1 {
 }
 script 316 mmz1 {
 	"""
-	Lança tripla
+	Lança Tripla
 	"""
 	textColorRed
 	"""
@@ -2034,7 +2034,7 @@ script 316 mmz1 {
 }
 script 317 mmz1 {
 	"""
-	Lança tripla
+	Lança Tripla
 	"""
 	textColorRed
 	"""
@@ -2045,7 +2045,7 @@ script 317 mmz1 {
 }
 script 318 mmz1 {
 	"""
-	Escudo bumerangue
+	Escudo Bumerangue
 	"""
 	textColorRed
 	"""
@@ -2059,7 +2059,7 @@ script 318 mmz1 {
 }
 script 319 mmz1 {
 	"""
-	Escudo bumerangue
+	Escudo Bumerangue
 	"""
 	textColorRed
 	"""
@@ -2073,7 +2073,7 @@ script 319 mmz1 {
 }
 script 320 mmz1 {
 	"""
-	Escudo bumerangue
+	Escudo Bumerangue
 	"""
 	textColorRed
 	"""
@@ -2294,7 +2294,7 @@ script 355 mmz1 {
 }
 script 360 mmz1 {
 	"""
-	Obrigado!
+	Agradeço!
 	"""
 	end
 }
@@ -2308,21 +2308,21 @@ script 361 mmz1 {
 }
 script 362 mmz1 {
 	"""
-	Obrigado,
+	Agradeço,
 	Zero.
 	"""
 	end
 }
 script 363 mmz1 {
 	"""
-	Obrigado,
+	Agradeço,
 	Zero!
 	"""
 	end
 }
 script 364 mmz1 {
 	"""
-	Obrigado
+	Agradeço
 	por me
 	alimentar.
 	"""
@@ -2345,7 +2345,7 @@ script 366 mmz1 {
 }
 script 367 mmz1 {
 	"""
-	Obrigado!
+	Agradeço!
 	"""
 	end
 }
@@ -2498,7 +2498,7 @@ script 397 mmz1 {
 }
 script 398 mmz1 {
 	"""
-	Tudo bem em substituir?
+	Tem certeza?
 	  SIM
 	  NÃO
 	"""
@@ -2534,13 +2534,13 @@ script 404 mmz1 {
 }
 script 405 mmz1 {
 	"""
-	RYOTA ITO
+	      RYOTA ITO
 	"""
 	end
 }
 script 406 mmz1 {
 	"""
-	YOSHINORI KAWANO
+	      YOSHINORI KAWANO
 	"""
 	end
 }
@@ -2555,7 +2555,7 @@ script 408 mmz1 {
 }
 script 409 mmz1 {
 	"""
-	MASAHIRO MIZUKOSHI
+	      MASAHIRO MIZUKOSHI
 	"""
 	end
 }
@@ -2570,7 +2570,7 @@ script 411 mmz1 {
 }
 script 412 mmz1 {
 	"""
-	TORU NAKAYAMA
+	      TORU NAKAYAMA
 	"""
 	end
 }
@@ -2585,13 +2585,13 @@ script 414 mmz1 {
 }
 script 415 mmz1 {
 	"""
-	MASAYA SUZUKI
+	      MASAYA SUZUKI
 	"""
 	end
 }
 script 416 mmz1 {
 	"""
-	HIROKATSU MAEDA
+	      HIROKATSU MAEDA
 	"""
 	end
 }
@@ -2600,19 +2600,19 @@ script 417 mmz1 {
 }
 script 418 mmz1 {
 	"""
-	YUUKI TSUNEMI
+	      YUUKI TSUNEMI
 	"""
 	end
 }
 script 419 mmz1 {
 	"""
-	KEIICHI NABETANI
+	      KEIICHI NABETANI
 	"""
 	end
 }
 script 420 mmz1 {
 	"""
-	HIRONORI SHIRAKURA
+	      HIRONORI SHIRAKURA
 	"""
 	end
 }
@@ -2627,31 +2627,31 @@ script 422 mmz1 {
 }
 script 423 mmz1 {
 	"""
-	TAKAHIKO KIMURA
+	        TAKAHIKO KIMURA
 	"""
 	end
 }
 script 424 mmz1 {
 	"""
-	MASAMI SUEOKA
+	        MASAMI SUEOKA
 	"""
 	end
 }
 script 425 mmz1 {
 	"""
-	MASAKO TANAKA
+	        MASAKO TANAKA
 	"""
 	end
 }
 script 426 mmz1 {
 	"""
-	TOSHIMI FUKUSHIMA
+	        TOSHIMI FUKUSHIMA
 	"""
 	end
 }
 script 427 mmz1 {
 	"""
-	KAZUNORI YAHATA
+	        KAZUNORI YAHATA
 	"""
 	end
 }
@@ -2666,7 +2666,7 @@ script 429 mmz1 {
 }
 script 430 mmz1 {
 	"""
-	NOBORU HONDA
+	      NOBORU HONDA
 	"""
 	end
 }
@@ -2675,19 +2675,19 @@ script 431 mmz1 {
 }
 script 432 mmz1 {
 	"""
-	HIDETAKA KATSUKI
+	      HIDETAKA KATSUKI
 	"""
 	end
 }
 script 433 mmz1 {
 	"""
-	YUKIMASA TAMURA
+	      YUKIMASA TAMURA
 	"""
 	end
 }
 script 434 mmz1 {
 	"""
-	SATORU NARITA
+	      SATORU NARITA
 	"""
 	end
 }
@@ -2696,13 +2696,13 @@ script 435 mmz1 {
 }
 script 436 mmz1 {
 	"""
-	IPPEI MASUDA
+	      IPPEI MASUDA
 	"""
 	end
 }
 script 437 mmz1 {
 	"""
-	JUN MUNAKATA
+	      JUN MUNAKATA
 	"""
 	end
 }
@@ -2717,7 +2717,7 @@ script 439 mmz1 {
 }
 script 440 mmz1 {
 	"""
-	TAKAYUKI INOUE
+	      TAKAYUKI INOUE
 	"""
 	end
 }
@@ -2726,13 +2726,13 @@ script 441 mmz1 {
 }
 script 442 mmz1 {
 	"""
-	KAZUTAKA YANAGISAWA
+	      KAZUTAKA YANAGISAWA
 	"""
 	end
 }
 script 443 mmz1 {
 	"""
-	AKIHIRO SHISHIDO
+	      AKIHIRO SHISHIDO
 	"""
 	end
 }
@@ -2741,7 +2741,7 @@ script 444 mmz1 {
 }
 script 445 mmz1 {
 	"""
-	HIROKATSU KAWANISHI
+	      HIROKATSU KAWANISHI
 	"""
 	end
 }
@@ -2756,7 +2756,7 @@ script 447 mmz1 {
 }
 script 448 mmz1 {
 	"""
-	IPPO YAMADA
+	      IPPO YAMADA
 	"""
 	end
 }
@@ -2771,37 +2771,37 @@ script 450 mmz1 {
 }
 script 451 mmz1 {
 	"""
-	YUTO KAZAMA
+	      YUTO KAZAMA
 	"""
 	end
 }
 script 452 mmz1 {
 	"""
-	RIE TANAKA
+	      RIE TANAKA
 	"""
 	end
 }
 script 453 mmz1 {
 	"""
-	MEGUMI OGATA
+	      MEGUMI OGATA
 	"""
 	end
 }
 script 454 mmz1 {
 	"""
-	KAZUYA NAKAI
+	      KAZUYA NAKAI
 	"""
 	end
 }
 script 455 mmz1 {
 	"""
-	TETSU INADA
+	      TETSU INADA
 	"""
 	end
 }
 script 456 mmz1 {
 	"""
-	YUKA IMAI
+	      YUKA IMAI
 	"""
 	end
 }
@@ -2816,7 +2816,7 @@ script 458 mmz1 {
 }
 script 459 mmz1 {
 	"""
-	MINORU NAGAOKA
+	      MINORU NAGAOKA
 	"""
 	end
 }
@@ -2831,19 +2831,19 @@ script 461 mmz1 {
 }
 script 462 mmz1 {
 	"""
-	AKINORI MURATA
+	      AKINORI MURATA
 	"""
 	end
 }
 script 463 mmz1 {
 	"""
-	TAKASHI HASHIMOTO
+	      TAKASHI HASHIMOTO
 	"""
 	end
 }
 script 464 mmz1 {
 	"""
-	NAOKI KAMURA
+	      NAOKI KAMURA
 	"""
 	end
 }
@@ -2858,97 +2858,97 @@ script 466 mmz1 {
 }
 script 467 mmz1 {
 	"""
-	OOKO
+	      OOKO
 	"""
 	end
 }
 script 468 mmz1 {
 	"""
-	MAKOTO TOMOZAWA
+	      MAKOTO TOMOZAWA
 	"""
 	end
 }
 script 469 mmz1 {
 	"""
-	TOSHIHIKO UKAI
+	      TOSHIHIKO UKAI
 	"""
 	end
 }
 script 470 mmz1 {
 	"""
-	KUNIHITO TAKASHIMA
+	      KUNIHITO TAKASHIMA
 	"""
 	end
 }
 script 471 mmz1 {
 	"""
-	KUNIO FUNAHARA
+	      KUNIO FUNAHARA
 	"""
 	end
 }
 script 472 mmz1 {
 	"""
-	HIROKO NAKAMURA
+	      HIROKO NAKAMURA
 	"""
 	end
 }
 script 473 mmz1 {
 	"""
-	HIROYUKI IRIE
+	      HIROYUKI IRIE
 	"""
 	end
 }
 script 474 mmz1 {
 	"""
-	SHIGEYOSHI KOBAYASHI
+	      SHIGEYOSHI KOBAYASHI
 	"""
 	end
 }
 script 475 mmz1 {
 	"""
-	ASUKA HAYASHI
+	      ASUKA HAYASHI
 	"""
 	end
 }
 script 476 mmz1 {
 	"""
-	SARA TANAKA
+	      SARA TANAKA
 	"""
 	end
 }
 script 477 mmz1 {
 	"""
-	HIRONORI OJIMA
+	      HIRONORI OJIMA
 	"""
 	end
 }
 script 478 mmz1 {
 	"""
-	TAKUYA SHIRAIWA
+	      TAKUYA SHIRAIWA
 	"""
 	end
 }
 script 479 mmz1 {
 	"""
-	Shizukichi Abe
+	      Shizukichi Abe
 	"""
 	end
 }
 script 480 mmz1 {
 	"""
-	Erik"GenAzea"Suzuki
+	      Erik“GenAzea”Suzuki
 	"""
 	end
 }
 script 481 mmz1 {
 	"""
-	KAORI FUNAKOSHI
+	      KAORI FUNAKOSHI
 	"""
 	end
 }
 script 482 mmz1 {
 	"""
-	STUDIO882
+	      STUDIO882
 	"""
 	end
 }
@@ -2972,7 +2972,7 @@ script 486 mmz1 {
 }
 script 487 mmz1 {
 	"""
-	YOSHIHISA TSUDA
+	      YOSHIHISA TSUDA
 	"""
 	end
 }
@@ -2987,13 +2987,13 @@ script 489 mmz1 {
 }
 script 490 mmz1 {
 	"""
-	TAKUYA AIZU
+	      TAKUYA AIZU
 	"""
 	end
 }
 script 491 mmz1 {
 	"""
-	KEIJI INAFUNE
+	      KEIJI INAFUNE
 	"""
 	end
 }
@@ -3032,7 +3032,7 @@ script 501 mmz1 {
 	Para jogar no DIFÍCIL,
 	salve os dados terminados
 	segure L quando escolher
-	"NOVA JOGATINA".
+	“NOVO JOGO”.
 	"""
 	end
 }
@@ -3040,7 +3040,7 @@ script 502 mmz1 {
 	"""
 	Salve usando todos os
 	Cyber-Elfos, segure R e
-	escolha "NOVA JOGATINA"
+	escolha “NOVO JOGO”
 	para jogar no SUPREMO.
 	"""
 	end

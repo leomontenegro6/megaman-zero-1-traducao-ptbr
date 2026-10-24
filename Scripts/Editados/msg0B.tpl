@@ -84,8 +84,7 @@ script 2 mmz1 {
 	"""
 	msgClear
 	"""
-	Muito
-	obrigado...
+	Muito obrigado...
 	"""
 	msgClear
 	mugshotShow
@@ -279,7 +278,7 @@ script 20 mmz1 {
 }
 script 21 mmz1 {
 	"""
-	SOLDADO: Puff, Puff...
+	SOLDADO: Puff, puff...
 	"""
 	end
 }

@@ -121,7 +121,7 @@ script 9 mmz1 {
 	"""
 	msgClear
 	"""
-	Você é forte -- e eu
+	Você é forte, e eu
 	gosto dos fortes!
 	"""
 	msgClear
@@ -133,7 +133,7 @@ script 9 mmz1 {
 	"""
 	um dos quatro
 	guardiões do
-	mestre X!
+	Mestre X!
 	"""
 	msgClear
 	"""

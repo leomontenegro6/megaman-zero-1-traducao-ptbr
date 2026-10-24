@@ -192,18 +192,15 @@ script 3 mmz1 {
 	"""
 	msgClear
 	"""
-	Lança tripla.
+	Lança Tripla.
 	Você pode atacar nas
 	oito direções.
+	"""
+	msgClear
+	"""
 	Demora um pouco pra
-	"""
-	msgClear
-	"""
-	se acostumar, mas eu
-	sei que você
-	"""
-	msgClear
-	"""
+	se acostumar, mas
+	eu sei que você
 	consegue.
 	"""
 	end
@@ -253,7 +250,7 @@ script 6 mmz1 {
 	"""
 	Bom, vamos chamá-la
 	de Escudo
-	bumerangue.
+	Bumerangue.
 	"""
 	end
 }
@@ -261,14 +258,15 @@ script 7 mmz1 {
 	mugshotShow
 		mugshot = 50
 	"""
-	Não só pode usar o
-	Escudo bumerangue
-	para bloquear os
+	O Escudo Bumerangue
+	não é só usado pra
+	bloquear projéteis,
 	"""
 	msgClear
 	"""
-	arremessá-lo se
-	carregá-lo.
+	ele também pode ser
+	arremessado se você
+	o carregar.
 	"""
 	msgClear
 	"""
@@ -336,7 +334,7 @@ script 11 mmz1 {
 	msgClear
 	"""
 	Desculpe, acho que
-	fui meio emocionado.
+	perdi a compostura.
 	"""
 	end
 }
@@ -730,8 +728,7 @@ script 22 mmz1 {
 	"""
 	msgClear
 	"""
-	pra
-	casa...
+	pra casa...
 	"""
 	msgClear
 	option
@@ -777,14 +774,13 @@ script 22 mmz1 {
 	"""
 	msgClear
 	"""
-	Eu viajei por mundo
-	todo, conheci muita
+	Eu viajei pelo mundo
+	inteiro, conheci
+	muita gente
 	"""
 	msgClear
 	"""
-	gente e
-	vivi
-	despedidas
+	e vivi despedidas
 	emocionantes.
 	"""
 	msgClear
@@ -828,7 +824,7 @@ script 22 mmz1 {
 	msgClear
 	"""
 	te darei alguns
-	Cristais de
+	cristais de
 	energia.
 	"""
 	end
@@ -848,7 +844,7 @@ script 24 mmz1 {
 	"""
 	Oi filho, como é
 	que vai?
-	Já se adaptou a
+	Já se adaptou à
 	função?
 	"""
 	msgClear
@@ -1068,12 +1064,12 @@ script 39 mmz1 {
 	"""
 	msgClear
 	"""
-	"ZERO, o
+	“ZERO, o
 	
 	"""
 	printCodeName
 	"""
-	!"
+	!”
 	"""
 	msgClear
 	"""
@@ -1097,12 +1093,12 @@ script 40 mmz1 {
 	"""
 	msgClear
 	"""
-	"ZERO, O
+	“ZERO, O
 	
 	"""
 	printCodeName
 	"""
-	"
+	”
 	pelas suas costas.
 	"""
 	msgClear
@@ -1166,7 +1162,7 @@ script 44 mmz1 {
 		mugshot = 48
 	"""
 	Senhor Zero,
-	por favor,	fique.
+	por favor, fique.
 	Nós precisamos de
 	ajuda.
 	"""
@@ -1251,8 +1247,9 @@ script 52 mmz1 {
 	mugshotShow
 		mugshot = 52
 	"""
-	Já ouvi falar dessas
-	coisinhas chamadas
+	Já ouviu falar
+	dessas coisinhas
+	chamadas
 	Cyber-elfos?
 	"""
 	msgClear
@@ -1291,7 +1288,7 @@ script 53 mmz1 {
 	"""
 	msgClear
 	"""
-	Oops, quase
+	Ops, quase
 	esqueci... eu ouvi
 	que aquele
 	Cyber-elfo
@@ -1322,7 +1319,7 @@ script 54 mmz1 {
 	"""
 	msgClear
 	"""
-	Oops, quase
+	Ops, quase
 	esqueci... eu ouvi
 	que aquele
 	Cyber-elfo
@@ -1545,16 +1542,15 @@ script 68 mmz1 {
 		mugshot = 61
 	"""
 	Hm? Quem é você?
-	Ah, não ligo?
+	Ah, não ligo.
 	Me faz um favor?
-	Eu tô
 	"""
 	msgClear
 	"""
-	cheio de fome pra me
-	mexer. Pode me dar
-	uns Cristais de
-	energia?
+	Eu tô cheio de fome
+	pra me mexer. Pode
+	me dar uns cristais
+	de energia?
 	"""
 	msgClear
 	"""
@@ -1610,8 +1606,7 @@ script 70 mmz1 {
 	msgClear
 	"""
 	com esses cristais
-	de energia
-	aí...?
+	de energia aí...?
 	"""
 	end
 }
@@ -1620,7 +1615,7 @@ script 71 mmz1 {
 		mugshot = 60
 	"""
 	Obrigado pelos
-	Cristais.
+	cristais.
 	Tá vendo?
 	Agora tô em forma!
 	"""
@@ -1645,7 +1640,7 @@ script 72 mmz1 {
 	option
 		secondAnswerIndex = 6
 	"""
-	me dar os Cristais
+	me dar os cristais
 	de energia?
 	  Tá bom, eu dou.
 	  Óbvio que não.
@@ -1681,8 +1676,7 @@ script 74 mmz1 {
 	mugshotShow
 		mugshot = 61
 	"""
-	Ô, só isso não
-	dá!
+	Ô, só isso não dá!
 	Tá zombando da
 	minha cara?
 	"""
@@ -1693,7 +1687,7 @@ script 75 mmz1 {
 		mugshot = 60
 	"""
 	Eu sei que eles me
-	chamam de "fardo"
+	chamam de “fardo”
 	pelas costas.
 	"""
 	msgClear
@@ -1743,10 +1737,7 @@ script 79 mmz1 {
 	"""
 	Te ver lutar me fez
 	perceber que o mais
-	imporante é não
-	"""
-	msgClear
-	"""
+	importante é não
 	desistir!
 	"""
 	end
@@ -1758,9 +1749,6 @@ script 80 mmz1 {
 	Eu nunca vou
 	desistir até a Ciel
 	poder sorrir e
-	"""
-	msgClear
-	"""
 	rir com vontade.
 	"""
 	end
@@ -1947,7 +1935,7 @@ script 92 mmz1 {
 	mugshotShow
 		mugshot = 47
 	"""
-	Eu tô preocupado
+	Eu tô preocupada
 	com o soldado
 	perdido.
 	"""
@@ -1985,7 +1973,7 @@ script 94 mmz1 {
 		mugshot = 44
 	"""
 	Estou de guarda caso
-	aja um ataque
+	haja um ataque
 	inimigo.
 	"""
 	msgClear
@@ -2044,7 +2032,7 @@ script 97 mmz1 {
 	"""
 	msgClear
 	"""
-	CIEL: ...Não vamos poder
+	CIEL: ... Não vamos poder
 	"""
 	msgClear
 	"""
@@ -2167,7 +2155,8 @@ script 101 mmz1 {
 	"""
 	Basicamente, um
 	Transervidor move
-	algo para algum lugar.
+	algo para algum
+	lugar.
 	"""
 	msgClear
 	"""
@@ -2204,7 +2193,7 @@ script 101 mmz1 {
 	Você deve dar a
 	esses Cyber-elfos
 	itens azuis chamados
-	Cristais de energia,
+	cristais de energia,
 	"""
 	msgClear
 	"""
@@ -2217,7 +2206,7 @@ script 101 mmz1 {
 	Conforme você
 	alimenta um 
 	Cyber-elfo com
-	Cristais de energia,
+	cristais de energia,
 	"""
 	msgClear
 	"""
@@ -2310,9 +2299,9 @@ script 105 mmz1 {
 	mugshotShow
 		mugshot = 47
 	"""
-	A entrada da base a
-	inimiga está logo a
-	frente.
+	A entrada da base
+	inimiga está logo
+	a frente.
 	"""
 	msgClear
 	"""
@@ -2359,7 +2348,8 @@ script 106 mmz1 {
 	"""
 	Basicamente, um
 	Transervidor move
-	algo para algum lugar.
+	algo para algum
+	lugar.
 	"""
 	msgClear
 	"""
@@ -2396,7 +2386,7 @@ script 106 mmz1 {
 	Você deve dar a
 	esses Cyber-elfos
 	itens azuis chamados
-	Cristais de energia,
+	cristais de energia,
 	"""
 	msgClear
 	"""
@@ -2409,7 +2399,7 @@ script 106 mmz1 {
 	Conforme você
 	alimenta um 
 	Cyber-elfo com
-	Cristais de energia,
+	cristais de energia,
 	"""
 	msgClear
 	"""
@@ -2447,11 +2437,8 @@ script 110 mmz1 {
 	"""
 	Você ataca a base
 	inimiga enquanto nós
-	mantemos a
-	"""
-	msgClear
-	"""
-	linha de defesa!!
+	mantemos a linha de
+	defesa!!
 	"""
 	end
 }
@@ -2476,7 +2463,7 @@ script 151 mmz1 {
 		mugshot = 44
 	"""
 	Olha todos esses
-	Cristais! É melhor
+	cristais! É melhor
 	não ficar de fora!!
 	"""
 	end
@@ -2486,11 +2473,8 @@ script 152 mmz1 {
 		mugshot = 44
 	"""
 	Deve ter mais
-	Cristais lá em cima,
+	cristais lá em cima,
 	mas eu não tenho
-	"""
-	msgClear
-	"""
 	coragem pra subir!
 	"""
 	end
@@ -2529,12 +2513,8 @@ script 200 mmz1 {
 	"""
 	Tecnicamente, daria
 	pra ir pro núcleo
-	da base inimiga
-	"""
-	msgClear
-	"""
-	com o
-	Transervidor...
+	da base inimiga com
+	o Transervidor...
 	"""
 	msgClear
 	"""
@@ -2587,7 +2567,8 @@ script 202 mmz1 {
 		mugshot = 14
 	"""
 	EU QUEBREI O SISTEMA
-	DE SEGURANÇA DELES...
+	DE SEGURANÇA
+	DELES...
 	"""
 	msgClear
 	"""
@@ -2799,7 +2780,7 @@ script 211 mmz1 {
 		mugshot = 42
 	"""
 	CIEL:
-	"Você limpou a
+	“Você limpou a
 	área.
 	"""
 	msgClear
@@ -2810,18 +2791,18 @@ script 211 mmz1 {
 	"""
 	msgClear
 	"""
-	nosso servidor."
+	nosso servidor.”
 	"""
 	msgClear
 	"""
 	CIEL:
-	"Você devia voltar
+	“Você devia voltar
 	pra base e
 	"""
 	msgClear
 	"""
 	CIEL:
-	descansar..."
+	descansar...”
 	"""
 	end
 }
@@ -2830,14 +2811,14 @@ script 212 mmz1 {
 		mugshot = 42
 	"""
 	CIEL:
-	"Você quer continuar
+	“Você quer continuar
 	sem salvar?
 	"""
 	msgClear
 	"""
 	CIEL:
 	Zero...
-	boa sorte..."
+	boa sorte...”
 	"""
 	end
 }
@@ -3036,12 +3017,8 @@ script 229 mmz1 {
 	"""
 	Que sorte a minha
 	poder trabalhar no
-	armazém por
-	Cristais de energia
-	"""
-	msgClear
-	"""
-	de novo.
+	armazém por cristais
+	de energia de novo.
 	"""
 	msgClear
 	"""
@@ -3061,7 +3038,7 @@ script 230 mmz1 {
 	"""
 	Nunca que eu
 	imaginaria a base
-	seria atacada...
+	sendo atacada...
 	"""
 	msgClear
 	"""

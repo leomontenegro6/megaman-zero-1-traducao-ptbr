@@ -80,10 +80,10 @@ script 3 mmz1 {
 	Se quiser-los, você
 	vai ter que me matar
 	e baixá-los do meu
+	corpo...
 	"""
 	msgClear
 	"""
-	corpo...
 	E aí, vai encarar??
 	"""
 	end

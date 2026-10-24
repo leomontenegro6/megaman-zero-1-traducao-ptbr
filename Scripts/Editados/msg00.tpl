@@ -173,7 +173,7 @@ script 13 mmz1 {
 	"""
 	a nossa última
 	esperança. A maioria
-	acha que "Zero" é só
+	acha que “Zero” é só
 	uma fantasia.
 	"""
 	msgClear
@@ -181,9 +181,6 @@ script 13 mmz1 {
 	Mas, alguns ainda
 	acreditam na sua
 	existência e estavam
-	"""
-	msgClear
-	"""
 	te procurando...
 	"""
 	msgClear
@@ -195,8 +192,7 @@ script 13 mmz1 {
 	msgClear
 	"""
 	de X para salvar o
-	mundo há 100 anos
-	atrás...
+	mundo há 100 anos...
 	"""
 	msgClear
 	mugshotShow
@@ -314,19 +310,15 @@ script 14 mmz1 {
 	"""
 	msgClear
 	"""
-	O que eu queria
-	pedir é pra você
-	resolver um
-	"""
-	msgClear
-	"""
-	problema que estamos
-	tendo...
+	O que eu quero pedir
+	é pra você resolver
+	um problema que
+	estamos tendo...
 	"""
 	msgClear
 	"""
 	Eu quero que você
-	destrua o Centro de
+	destrua o centro de
 	descarte, onde eles
 	"""
 	msgClear
@@ -344,7 +336,7 @@ script 14 mmz1 {
 	msgClear
 	"""
 	acusados de serem
-	Maverick
+	Mavericks
 	injustamente.
 	"""
 	msgClear
@@ -385,19 +377,15 @@ script 15 mmz1 {
 	"""
 	msgClear
 	"""
-	O que eu queria
-	pedir é pra você
-	resolver um
-	"""
-	msgClear
-	"""
-	problema que estamos
-	tendo...
+	O que eu quero pedir
+	é pra você resolver
+	um problema que
+	estamos tendo...
 	"""
 	msgClear
 	"""
 	Eu quero que você
-	destrua o Centro de
+	destrua o centro de
 	descarte, onde eles
 	"""
 	msgClear
@@ -415,7 +403,7 @@ script 15 mmz1 {
 	msgClear
 	"""
 	acusados de serem
-	Maverick
+	Mavericks
 	injustamente.
 	"""
 	msgClear
@@ -456,9 +444,6 @@ script 17 mmz1 {
 	"""
 	ainda tem dados
 	muito importantes
-	"""
-	msgClear
-	"""
 	pra você lá.
 	"""
 	msgClear
@@ -481,7 +466,7 @@ script 18 mmz1 {
 	Um dos nossos
 	reploides soldados
 	está detido no
-	Centro de
+	centro de
 	"""
 	msgClear
 	"""
@@ -511,8 +496,8 @@ script 19 mmz1 {
 	msgClear
 	"""
 	Você é a nossa única
-	esperança, boa
-	sorte, Zero.
+	esperança.
+	Boa sorte, Zero.
 	"""
 	end
 }
@@ -565,7 +550,7 @@ script 21 mmz1 {
 	"""
 	msgClear
 	"""
-	a nossa depedência
+	a nossa dependência
 	sobre você.
 	"""
 	msgClear
@@ -614,11 +599,7 @@ script 22 mmz1 {
 	a energia... mas o
 	guarda da fábrica é
 	forte demais pra
-	"""
-	msgClear
-	"""
-	podermos
-	tomá-la...
+	podermos tomá-la...
 	"""
 	msgClear
 	"""
@@ -633,11 +614,11 @@ script 23 mmz1 {
 	"""
 	Graças a você, nós
 	tomamos o controle
-	da fábrica. Mas
+	da fábrica.
 	"""
 	msgClear
 	"""	
-	não sei se vamos
+	Mas não sei se vamos
 	conseguir segurá-la
 	pra sempre...
 	"""
@@ -750,12 +731,8 @@ script 26 mmz1 {
 	"""
 	em algum lugar no
 	deserto, e que eles
-	estão
-	"""
-	msgClear
-	"""
-	prendendo reploides
-	lá...
+	estão prendendo
+	reploides lá...
 	"""
 	msgClear
 	"""
@@ -778,12 +755,12 @@ script 26 mmz1 {
 	"""
 	Será que você
 	consegue achar
-	essa base? Ela
+	essa base?
 	"""
 	msgClear
 	"""
-	deve estar no meio
-	do deserto...!
+	Ela deve estar no
+	meio do deserto...!
 	"""
 	end
 }
@@ -808,7 +785,7 @@ script 27 mmz1 {
 	"""
 	msgClear
 	"""
-	naquele base debaixo
+	naquela base debaixo
 	do deserto.
 	"""
 	msgClear
@@ -1022,7 +999,7 @@ script 34 mmz1 {
 	"""
 	msgClear
 	"""
-	Centro de descarte
+	centro de descarte
 	ser destruído.
 	"""
 	msgClear
@@ -1083,17 +1060,14 @@ script 34 mmz1 {
 	"""
 	msgClear
 	"""
-	É uma "Unidade de
-	fuga". Se você
+	É uma “Unidade de
+	fuga”. Se você
 	estiver em
 	"""
 	msgClear
 	"""
 	uma missão, você
 	poderá abortá-la
-	"""
-	msgClear
-	"""
 	e evacuar.
 	"""
 	msgClear
@@ -1125,7 +1099,7 @@ script 36 mmz1 {
 	"""
 	msgClear
 	"""
-	Centro de descarte
+	centro de descarte
 	ser destruído.
 	"""
 	msgClear
@@ -1229,8 +1203,8 @@ script 39 mmz1 {
 	"""
 	msgClear
 	"""
-	Mas ele é uma
-	espécime única que
+	Mas ele é um
+	espécime único que
 	aprenderá uma
 	"""
 	msgClear
@@ -1337,7 +1311,7 @@ script 44 mmz1 {
 	msgClear
 	"""
 	Ainda temos uns
-	Cristais de energia
+	cristais de energia
 	guardados... 
 	"""
 	msgClear
@@ -1349,8 +1323,8 @@ script 44 mmz1 {
 	msgClear
 	"""
 	antes que o nosso
-	estoque de Cristais
-	de Energia acabe.
+	estoque de cristais
+	de energia acabe.
 	"""
 	msgClear
 	"""
@@ -1390,9 +1364,6 @@ script 45 mmz1 {
 	"""
 	Se conseguirmos,
 	poderemos viver
-	"""
-	msgClear
-	"""
 	num mundo
 	pacífico...
 	"""
@@ -1401,9 +1372,6 @@ script 45 mmz1 {
 	Mas até lá Zero,
 	espero poder
 	continuar com
-	"""
-	msgClear
-	"""
 	o seu apoio.
 	"""
 	end
@@ -1509,7 +1477,7 @@ script 49 mmz1 {
 	"""
 	msgClear
 	"""
-	a Base não ia durar
+	a base não ia durar
 	muito...
 	"""
 	msgClear
@@ -1517,9 +1485,6 @@ script 49 mmz1 {
 	Nossa, difícil
 	acreditar que você
 	destruiu tantos
-	"""
-	msgClear
-	"""
 	inimigos...
 	"""
 	msgClear
@@ -1591,11 +1556,11 @@ script 51 mmz1 {
 	"""
 	E lá, viveremos em
 	paz, livres da
-	ansiedade e
+	ansiedade e da
 	"""
 	msgClear
 	"""
-	fome cobertos de
+	fome, cobertos de
 	felicidade...
 	"""
 	msgClear
@@ -1646,7 +1611,7 @@ script 53 mmz1 {
 		mugshot = 6
 	"""
 	Graças a você, os
-	ataques cybernéticos
+	ataques cibernéticos
 	pararam.
 	"""
 	msgClear
@@ -1785,8 +1750,7 @@ script 57 mmz1 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Zero...
-	obrigada.
+	Zero... obrigada.
 	"""
 	end
 }
@@ -1812,9 +1776,9 @@ script 59 mmz1 {
 		mugshot = 42
 	"""
 	CIEL:
-	"Você está partindo
+	“Você está partindo
 	pra missão?
-	Boa sorte..."
+	Boa sorte...”
 	"""
 	end
 }

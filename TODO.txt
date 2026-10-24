@@ -1,2 +1,4 @@
+- Revisar letras espremidas de "Nova Arcád." pra melhorar o visual de uma delas
+- Editar "Achar bse escndida" com a técnica de letras espremidas
+- Incluir nossos próprios créditos no final (checar se há espaço)
 - Cogitar possibilidade de fazer fandub das poucas vozes dentro do jogo (o MISSION da Ciel)
-- Alinhar nomes dos créditos para ficarem mais à direita (via ASM, porque no .tpl não tem espaço)

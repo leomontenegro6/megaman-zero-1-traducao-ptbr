@@ -3,15 +3,11 @@
 
 script 0 mmz1 {
 	"""
-	CIEL: O Centro de
+	CIEL: O centro de descarte
 	"""
 	msgClear
 	"""
-	descarte está logo
-	"""
-	msgClear
-	"""
-	a frente!
+	está logo a frente!
 	"""
 	msgClear
 	"""
@@ -25,15 +21,11 @@ script 0 mmz1 {
 }
 script 1 mmz1 {
 	"""
-	CIEL: O Centro de
+	CIEL: O centro de descarte
 	"""
 	msgClear
 	"""
-	descarte está depois
-	"""
-	msgClear
-	"""
-	dessa porta.
+	está depois dessa porta.
 	"""
 	end
 }
@@ -73,7 +65,7 @@ script 4 mmz1 {
 	"""
 	msgClear
 	"""
-	Hee hee. Bem na hora
+	He he. Bem na hora
 	então. Eu vou matar
 	todo mundo!
 	"""
@@ -96,7 +88,7 @@ script 5 mmz1 {
 	"""
 	Eu ainda tô
 	tremendo...
-	...ha ha ha
+	... ha ha ha.
 	"""
 	msgClear
 	"""

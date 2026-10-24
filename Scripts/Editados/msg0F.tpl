@@ -6,7 +6,7 @@ script 0 mmz1 {
 		mugshot = 42
 	"""
 	SOLDADO:
-	"Temos um problema!!
+	“Temos um problema!!
 	"""
 	msgClear
 	"""
@@ -17,7 +17,7 @@ script 0 mmz1 {
 	msgClear
 	"""
 	Não vamos conseguir
-	segurar!"
+	segurar!”
 	"""
 	end
 }
@@ -26,12 +26,9 @@ script 1 mmz1 {
 		mugshot = 42
 	"""
 	SOLDADO:
-	"O portão principal
-	vai cair a
-	"""
-	msgClear
-	"""
-	qualquer momento!
+	“O portão principal
+	vai cair a qualquer
+	momento!”
 	"""
 	msgClear
 	mugshotShow
@@ -47,8 +44,7 @@ script 1 mmz1 {
 	"""
 	msgClear
 	"""
-	Você também,
-	Zero.
+	Você também, Zero.
 	"""
 	msgClear
 	"""
@@ -86,7 +82,7 @@ script 1 mmz1 {
 	msgClear
 	"""
 	Tudo por causa
-	da Nova Arcádia...
+	de Nova Arcádia...
 	"""
 	msgClear
 	"""
@@ -103,7 +99,7 @@ script 1 mmz1 {
 	"""
 	msgClear
 	"""
-	Fui em que criei
+	Fui eu que criei
 	essa Nova Arcádia...
 	"""
 	msgClear
@@ -120,13 +116,13 @@ script 1 mmz1 {
 		mugshot = 4
 	"""
 	Hã? Como assim você
-	"criou" ele...?
+	“criou” ele...?
 	"""
 	msgClear
 	"""
-	Você ressucitou o
+	Você ressuscitou o
 	X como me
-	ressucitou?
+	ressuscitou?
 	"""
 	msgClear
 	mugshotShow
@@ -139,7 +135,7 @@ script 1 mmz1 {
 	"""	
 	Você é o original,
 	digo, você é o
-	mesmo que antes...
+	mesmo de antes...
 	"""
 	msgClear
 	"""
@@ -165,7 +161,7 @@ script 3 mmz1 {
 		mugshot = 42
 	"""
 	SOLDADO:
-	"Zero, tá me
+	“Zero, tá me
 	ouvindo?
 	"""
 	msgClear
@@ -187,13 +183,13 @@ script 3 mmz1 {
 	msgClear
 	"""
 	pras cápsulas de
-	evacuação
+	evacuação.
 	"""
 	msgClear
 	"""
 	Cuide dos inimigos
 	na sala das
-	máquinas!!"
+	máquinas!!”
 	"""
 	end
 }
@@ -216,32 +212,28 @@ script 5 mmz1 {
 		mugshot = 42
 	"""
 	SOLDADO:
-	"Zero, tá na
-	escuta?
+	“Zero, tá na
+	escuta?”
 	"""
 	msgClear
 	"""
 	SOLDADO:
 	O comandante inimigo
 	tomou a sala que os
-	Cristais de energia
+	cristais de energia
 	"""
 	msgClear
 	"""
 	estão guardados. Se
 	perdermos os
-	Cristais de
+	cristais de
 	"""
 	msgClear
 	"""
-	Energia, acabou pra
+	energia, acabou pra
 	gente. Vá pra lá e
-	proteja os
-	"""
-	msgClear
-	"""
-	Cristais de
-	energia!
+	proteja os cristais
+	de energia!”
 	"""
 	end
 }

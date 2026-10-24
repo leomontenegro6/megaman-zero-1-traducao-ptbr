@@ -74,8 +74,8 @@ script 6 mmz1 {
 	mugshotShow
 		mugshot = 7
 	"""
-	Esse...deve ser o
-	"Zero"...
+	Esse... deve ser o
+	“Zero”...
 	"""
 	msgClear
 	mugshotShow
@@ -222,9 +222,6 @@ script 15 mmz1 {
 	Não se preocupe
 	comigo. Lembra
 	que tá todo mundo
-	"""
-	msgClear
-	"""
 	contando com você!
 	"""
 	end
@@ -255,7 +252,7 @@ script 17 mmz1 {
 	mugshotShow
 		mugshot = 10
 	"""
-	Não Ciel -- eu que
+	Não Ciel, eu que
 	agradeço.
 	...Adeus...
 	"""
@@ -331,7 +328,7 @@ script 22 mmz1 {
 	"""
 	msgClear
 	"""
-	voltar pra Base da
+	voltar pra base da
 	resistência.
 	"""
 	end
@@ -454,7 +451,7 @@ script 29 mmz1 {
 	"""
 	Respira um pouco.
 	Você deve estar com
-	uma "ressaca" da
+	uma “ressaca” da
 	hibernação.
 	
 	"""
@@ -486,8 +483,8 @@ script 29 mmz1 {
 	mugshotShow
 		mugshot = 4
 	"""
-	...E se eu não for
-	esse "Zero" que você
+	... E se eu não for
+	esse “Zero” que você
 	tá falando?
 	"""
 	msgClear
@@ -495,7 +492,7 @@ script 29 mmz1 {
 		mugshot = 7
 	"""
 	Você provou que é o
-	"Zero" pra mim ao me
+	“Zero” pra mim ao me
 	salvar do Golem.
 	"""
 	end

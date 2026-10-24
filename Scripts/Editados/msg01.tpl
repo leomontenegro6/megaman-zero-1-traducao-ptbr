@@ -9,7 +9,7 @@ script 0 mmz1 {
 }
 script 1 mmz1 {
 	"""
-	Você pegou a Lança tripla!!
+	Você pegou a Lança Tripla!!
 	"""
 	end
 }
@@ -19,7 +19,7 @@ script 2 mmz1 {
 	"""
 	msgClear
 	"""
-	bumerangue!!
+	Bumerangue!!
 	"""
 	end
 }
@@ -245,65 +245,53 @@ script 16 mmz1 {
 }
 script 17 mmz1 {
 	"""
-	Habilidade com Lança
+	Habilidade com Lança Tripla
 	"""
 	msgClear
 	"""
-	tripla melhorada! Agora
+	melhorada! Agora você pode
 	"""
 	msgClear
 	"""
-	você pode fazer uma
-	"""
-	msgClear
-	"""
-	ataque duplo!!
+	fazer um ataque duplo!!
 	"""
 	end
 }
 script 18 mmz1 {
 	"""
-	Habilidade com Lança
+	Habilidade com Lança Tripla
 	"""
 	msgClear
 	"""
-	tripla melhorada! Agora
+	melhorada! Agora você pode
 	"""
 	msgClear
 	"""
-	você pode fazer uma
-	"""
-	msgClear
-	"""
-	ataque triplo!!
+	fazer um ataque triplo!!
 	"""
 	end
 }
 script 19 mmz1 {
 	"""
-	Habilidade com Lança
+	Habilidade com Lança Tripla
 	"""
 	msgClear
 	"""
-	tripla melhorada! Agora
+	melhorada! Agora você pode
 	"""
 	msgClear
 	"""
-	você pode carregar o
-	"""
-	msgClear
-	"""
-	ataque!!
+	carregar o ataque!!
 	"""
 	end
 }
 script 20 mmz1 {
 	"""
-	Habilidade com Lança
+	Habilidade com Lança Tripla
 	"""
 	msgClear
 	"""
-	tripla no MÁXIMO! O tempo
+	no MÁXIMO! Agora o tempo
 	"""
 	msgClear
 	"""
@@ -317,7 +305,7 @@ script 21 mmz1 {
 	"""
 	msgClear
 	"""
-	bumerangue melhorado!
+	Bumerangue melhorado!
 	"""
 	msgClear
 	"""
@@ -335,7 +323,7 @@ script 22 mmz1 {
 	"""
 	msgClear
 	"""
-	bumerangue no MÁXIMO!
+	Bumerangue no MÁXIMO!
 	"""
 	msgClear
 	"""

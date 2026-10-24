@@ -22,11 +22,8 @@ script 1 mmz1 {
 	"""
 	Meu nome é Phantom,
 	um dos quatro
-	Guardiões do
-	"""
-	msgClear
-	"""
-	mestre X.
+	guardiões do
+	Mestre X.
 	"""
 	msgClear
 	"""
@@ -68,7 +65,7 @@ script 2 mmz1 {
 	msgClear
 	"""
 	E quando elas
-	explodiram, essa
+	explodirem, essa
 	fábrica virará
 	cinzas!
 	"""
@@ -171,7 +168,7 @@ script 5 mmz1 {
 	"""
 	msgClear
 	"""
-	cuidado
+	cuidado.
 	"""
 	end
 }
@@ -255,7 +252,7 @@ script 15 mmz1 {
 		mugshot = 42
 	"""
 	CIEL:
-	"As bombas foram
+	“As bombas foram
 	desativadas e o
 	Zero
 	"""
@@ -269,7 +266,7 @@ script 15 mmz1 {
 	CIEL:
 	Estamos te
 	esperando,
-	Zero."
+	Zero.”
 	"""
 	end
 }

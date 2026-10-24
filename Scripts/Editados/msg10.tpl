@@ -13,18 +13,19 @@ script 1 mmz1 {
 	"""
 	Você está invadindo
 	o santuário do
-	mestre X.
+	Mestre X.
 	"""
 	msgClear
 	"""
 	Em nome de Harpuia,
-	o guadião do mestre
-	X, eu,
+	o guardião do
+	Mestre X, eu,
 	"""
 	msgClear
 	"""
 	Herculious
-	Anchortus, o matarei.
+	Anchortus, o
+	matarei.
 	"""
 	msgClear
 	"""

@@ -6,6 +6,9 @@ $graficos = [
     (object)['nome' => 'Menu Status', 'offset' => '0x2F5A94', 'tiles' => '32x16', 'codec' => '4bpp'],
     (object)['nome' => 'Menu Opcoes', 'offset' => '0x2F9A94', 'tiles' => '32x16', 'codec' => '4bpp'],
     (object)['nome' => 'Tela Resultados', 'offset' => '0x2FFE34', 'tiles' => '32x16', 'codec' => '4bpp'],
+    (object)['nome' => 'Press Start', 'offset' => '0x30AD34', 'tiles' => '16x2', 'codec' => '4bpp'],
+    (object)['nome' => 'New Game', 'offset' => '0x30B194', 'tiles' => '10x2', 'codec' => '4bpp'],
+    (object)['nome' => 'Continue', 'offset' => '0x30B414', 'tiles' => '10x2', 'codec' => '4bpp'],
     (object)['nome' => 'Sound Only', 'offset' => '0x7E9DAC', 'tiles' => '8x8', 'codec' => '4bpp'],
 ];
 

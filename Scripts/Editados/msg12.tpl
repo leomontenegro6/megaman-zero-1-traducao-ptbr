@@ -128,7 +128,7 @@ script 7 mmz1 {
 	msgClear
 	"""
 	Ninguém sujará o
-	nome do mestre X.
+	nome do Mestre X.
 	"""
 	msgClear
 	"""
@@ -152,7 +152,7 @@ script 8 mmz1 {
 	"""
 	Você não alcançará
 	a câmara do
-	mestre X...
+	Mestre X...
 	"""
 	msgClear
 	"""
@@ -168,7 +168,7 @@ script 9 mmz1 {
 	mugshotShow
 		mugshot = 37
 	"""
-	Hee hee hee hee.
+	He he he he.
 	Bem-vindo, Zero.
 	Até que enfim.
 	"""
@@ -203,11 +203,7 @@ script 10 mmz1 {
 	"""
 	Que assim seja.
 	Eu vou deixar você
-	viver mais um
-	"""
-	msgClear
-	"""
-	pouco.
+	viver mais um pouco.
 	"""
 	msgClear
 	"""
@@ -236,7 +232,7 @@ script 12 mmz1 {
 	mugshotShow
 		mugshot = 31
 	"""
-	Puff, Puff...
+	Puff, puff...
 	"""
 	msgClear
 	"""
@@ -336,7 +332,7 @@ script 17 mmz1 {
 	mugshotShow
 		mugshot = 30
 	"""
-	...Que assim seja,
+	... Que assim seja,
 	meu mestre...
 	"""
 	end
@@ -392,9 +388,6 @@ script 18 mmz1 {
 	A utopia que os
 	humanos tanto
 	procuraram existe,
-	"""
-	msgClear
-	"""
 	e é Nova Arcádia.
 	"""
 	msgClear
@@ -412,7 +405,7 @@ script 18 mmz1 {
 	mugshotShow
 		mugshot = 4
 	"""
-	E esta "paz" só foi
+	E esta “paz” só foi
 	alcançada matando
 	quantos reploides
 	"""
@@ -466,7 +459,7 @@ script 19 mmz1 {
 	mugshotShow
 		mugshot = 29
 	"""
-	C...como é...!?
+	C... como é...!?
 	"""
 	msgClear
 	mugshotShow
@@ -525,7 +518,7 @@ script 21 mmz1 {
 	msgClear
 	"""
 	Eu...
-	eu sou a..
+	eu sou a...
 	c... cópia...
 	cópia perfeita...
 	"""
@@ -590,7 +583,7 @@ script 22 mmz1 {
 	"""
 	TODO OS ELEMENTOS
 	PRESENTES SERÃO
-	DESTRUÍDOS
+	ELIMINADOS
 	"""
 	msgClear
 	mugshotShow

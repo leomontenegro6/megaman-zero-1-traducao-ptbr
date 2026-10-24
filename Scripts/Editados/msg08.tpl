@@ -80,15 +80,15 @@ script 5 mmz1 {
 		mugshot = 35
 	"""
 	Você deve ser o
-	"Zero". Permita-me
-	me apresentar.
-	Meu nome é
+	“Zero”. Permita que
+	me apresente.
 	"""
 	msgClear
 	"""
-	Harpuia, um dos
-	quatro guardiões
-	do mestre X.
+	Meu nome é Harpuia,
+	um dos quatro
+	guardiões do
+	Mestre X.
 	"""
 	msgClear
 	"""
@@ -101,7 +101,7 @@ script 5 mmz1 {
 	Hora de se
 	arrepender e pagar
 	por seus pecados,
-	"Zero"!
+	“Zero”!
 	"""
 	end
 }

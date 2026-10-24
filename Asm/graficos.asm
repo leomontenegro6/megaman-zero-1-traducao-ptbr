@@ -18,6 +18,12 @@
     .incbin "Graficos/Editados/Tela Resultados.gba"
 .org 0x082E38C4
     .incbin "Graficos/Editados/Tela Resultados (tm).gba"
+.org 0x0830AD34
+    .incbin "Graficos/Editados/Press Start.gba"
+.org 0x0830B194
+    .incbin "Graficos/Editados/New Game.gba"
+.org 0x0830B414
+    .incbin "Graficos/Editados/Continue.gba"
 .org 0x087E9DAC
     .incbin "Graficos/Editados/Sound Only.gba"
 

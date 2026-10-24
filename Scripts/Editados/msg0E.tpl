@@ -75,7 +75,7 @@ script 1 mmz1 {
 }
 script 2 mmz1 {
 	"""
-	CIEL: Você destriu um
+	CIEL: Você destruiu um
 	"""
 	msgClear
 	"""
@@ -164,7 +164,7 @@ script 6 mmz1 {
 	"""
 	msgClear
 	"""
-	do mestre X.
+	do Mestre X.
 	"""
 	msgClear
 	"""

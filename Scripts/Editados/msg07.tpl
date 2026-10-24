@@ -51,7 +51,7 @@ script 1 mmz1 {
 	"""
 	msgClear
 	"""
-	Por favor...salve-o!
+	Por favor... salve-o!
 	"""
 	end
 }

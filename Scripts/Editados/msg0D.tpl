@@ -156,7 +156,7 @@ script 12 mmz1 {
 	mugshotShow
 		mugshot = 46
 	"""
-	Faltam mais um
+	Falta mais um
 	prisioneiro!
 	Bom trabalho!
 	"""
@@ -168,7 +168,7 @@ script 13 mmz1 {
 	"""
 	Você resgatou todo
 	mundo? Maravilha!!
-	Obrigado por nos
+	Obrigada por nos
 	salvar!!
 	"""
 	end
@@ -331,12 +331,8 @@ script 21 mmz1 {
 	msgClear
 	"""
 	Por favor, salve
-	os outros pra
-	gente poder
-	"""
-	msgClear
-	"""
-	sair daqui.
+	os outros pra gente
+	poder sair daqui.
 	"""
 	end
 }
@@ -350,12 +346,8 @@ script 22 mmz1 {
 	msgClear
 	"""
 	Por favor, salve
-	os outros pra
-	gente poder
-	"""
-	msgClear
-	"""
-	sair daqui.
+	os outros pra gente
+	poder sair daqui.
 	"""
 	end
 }
@@ -402,16 +394,13 @@ script 25 mmz1 {
 	"""
 	Hmmmm...
 	Você deve ser
-	o "Zero"...
+	o “Zero”...
 	"""
 	msgClear
 	"""
 	Você é bom pra ter
-	chegado aqui,
-	"""
-	msgClear
-	"""
-	mas a brincadeira
+	chegado aqui, mas
+	a brincadeira
 	acabou.
 	"""
 	msgClear
@@ -452,14 +441,14 @@ script 27 mmz1 {
 		mugshot = 42
 	"""
 	CIEL:
-	"Entendido! E não
+	“Entendido! E não
 	esquece de trazer
 	o Chip de gelo!
 	"""
 	msgClear
 	"""
-	estamos te
-	aguardando, Zero".
+	Estamos te
+	aguardando, Zero.”
 	"""
 	end
 }

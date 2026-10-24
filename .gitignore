@@ -8,4 +8,4 @@
 .env
 /*.sym
 /Scripts/Compilados/*.msg
-copy_roms_to_anbernic.bat
+copy_rom_to_anbernic.bat
