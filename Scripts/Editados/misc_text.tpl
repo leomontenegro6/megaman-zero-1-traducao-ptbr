@@ -134,7 +134,7 @@ script 20 mmz1 {
 }
 script 21 mmz1 {
 	"""
-	Achar bse escndida
+	{Achar_base_escondida}
 	"""
 	end
 }
@@ -164,7 +164,7 @@ script 25 mmz1 {
 }
 script 26 mmz1 {
 	"""
-	Núcleo{_de_}{Nova_Arcad.}
+	{Núcleo_de_Nova_Arcádia}
 	"""
 	end
 }
@@ -300,19 +300,19 @@ script 50 mmz1 {
 }
 script 51 mmz1 {
 	"""
-	Santuário{_de_}{Nova_Arcadia}
+	Santuário{_de_}Nova{_Arcadia}
 	"""
 	end
 }
 script 52 mmz1 {
 	"""
-	Torre{_de_}{Nova_Arcadia}
+	Torre{_de_}Nova{_Arcadia}
 	"""
 	end
 }
 script 53 mmz1 {
 	"""
-	Núcleo{_de_}{Nova_Arcadia}
+	Núcleo{_de_}Nova{_Arcadia}
 	"""
 	end
 }
@@ -365,7 +365,7 @@ script 58 mmz1 {
 script 59 mmz1 {
 	textColorRed
 	"""
-	Santuário{_de_}{Nova_Arcadia}
+	Santuário{_de_}Nova{_Arcadia}
 	"""
 	textColorWhite
 	end
@@ -373,7 +373,7 @@ script 59 mmz1 {
 script 60 mmz1 {
 	textColorRed
 	"""
-	Torre{_de_}{Nova_Arcadia}
+	Torre{_de_}Nova{_Arcadia}
 	"""
 	textColorWhite
 	end
@@ -381,7 +381,7 @@ script 60 mmz1 {
 script 61 mmz1 {
 	textColorRed
 	"""
-	Núcleo{_de_}{Nova_Arcadia}
+	Núcleo{_de_}Nova{_Arcadia}
 	"""
 	textColorWhite
 	end
