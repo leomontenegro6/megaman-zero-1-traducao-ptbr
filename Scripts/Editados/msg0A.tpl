@@ -34,7 +34,8 @@ script 1 mmz1 {
 	"""
 	Mas, uma lenda
 	perdida deve ficar
-	na sua...
+	na sua própria
+	geração...
 	"""
 	msgClear
 	"""

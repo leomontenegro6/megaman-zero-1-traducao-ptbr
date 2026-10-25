@@ -1,2 +1,2 @@
-- Incluir nossos próprios créditos no final (checar se há espaço)
+- Checar bug onde os textos mostrando o nível das armas (em estrelas) não aparecem corretamente
 - Cogitar possibilidade de fazer fandub das poucas vozes dentro do jogo (o MISSION da Ciel)

@@ -2534,13 +2534,13 @@ script 404 mmz1 {
 }
 script 405 mmz1 {
 	"""
-	      RYOTA ITO
+	    RYOTA ITO
 	"""
 	end
 }
 script 406 mmz1 {
 	"""
-	      YOSHINORI KAWANO
+	    YOSHINORI KAWANO
 	"""
 	end
 }
@@ -2555,7 +2555,7 @@ script 408 mmz1 {
 }
 script 409 mmz1 {
 	"""
-	      MASAHIRO MIZUKOSHI
+	    MASAHIRO MIZUKOSHI
 	"""
 	end
 }
@@ -2570,7 +2570,7 @@ script 411 mmz1 {
 }
 script 412 mmz1 {
 	"""
-	      TORU NAKAYAMA
+	    TORU NAKAYAMA
 	"""
 	end
 }
@@ -2585,109 +2585,115 @@ script 414 mmz1 {
 }
 script 415 mmz1 {
 	"""
-	      MASAYA SUZUKI
+	    MASAYA SUZUKI
 	"""
 	end
 }
 script 416 mmz1 {
 	"""
-	      HIROKATSU MAEDA
+	    HIROKATSU MAEDA
 	"""
 	end
 }
 script 417 mmz1 {
+	"""
+	    YUUKI TSUNEMI
+	"""
 	end
 }
 script 418 mmz1 {
 	"""
-	      YUUKI TSUNEMI
+	    KEIICHI NABETANI
 	"""
 	end
 }
 script 419 mmz1 {
 	"""
-	      KEIICHI NABETANI
+	    HIRONORI SHIRAKURA
 	"""
 	end
 }
 script 420 mmz1 {
-	"""
-	      HIRONORI SHIRAKURA
-	"""
 	end
 }
 script 421 mmz1 {
-	end
-}
-script 422 mmz1 {
 	"""
 	STUDIO A-CAT
 	"""
 	end
 }
+script 422 mmz1 {
+	"""
+	    TAKAHIKO KIMURA
+	"""
+	end
+}
 script 423 mmz1 {
 	"""
-	        TAKAHIKO KIMURA
+	    MASAMI SUEOKA
 	"""
 	end
 }
 script 424 mmz1 {
 	"""
-	        MASAMI SUEOKA
+	    MASAKO TANAKA
 	"""
 	end
 }
 script 425 mmz1 {
 	"""
-	        MASAKO TANAKA
+	    TOSHIMI FUKUSHIMA
 	"""
 	end
 }
 script 426 mmz1 {
 	"""
-	        TOSHIMI FUKUSHIMA
+	    KAZUNORI YAHATA
 	"""
 	end
 }
 script 427 mmz1 {
-	"""
-	        KAZUNORI YAHATA
-	"""
 	end
 }
 script 428 mmz1 {
-	end
-}
-script 429 mmz1 {
 	"""
 	DESENHISTA DE CENÁRIOS
 	"""
 	end
 }
+script 429 mmz1 {
+	"""
+	    NOBORU HONDA
+	"""
+	end
+}
 script 430 mmz1 {
 	"""
-	      NOBORU HONDA
+	    HIDETAKA KATSUKI
 	"""
 	end
 }
 script 431 mmz1 {
+	"""
+	    YUKIMASA TAMURA
+	"""
 	end
 }
 script 432 mmz1 {
 	"""
-	      HIDETAKA KATSUKI
+	    SATORU NARITA
 	"""
 	end
 }
 script 433 mmz1 {
 	"""
-	      YUKIMASA TAMURA
+	    IPPEI MASUDA
 	"""
 	end
 }
 script 434 mmz1 {
 	"""
-	      SATORU NARITA
+	    JUN MUNAKATA
 	"""
 	end
 }
@@ -2696,28 +2702,31 @@ script 435 mmz1 {
 }
 script 436 mmz1 {
 	"""
-	      IPPEI MASUDA
+	PROGRAMADORES
 	"""
 	end
 }
 script 437 mmz1 {
 	"""
-	      JUN MUNAKATA
+	    TAKAYUKI INOUE
 	"""
 	end
 }
 script 438 mmz1 {
+	"""
+	    KAZUTAKA YANAGISAWA
+	"""
 	end
 }
 script 439 mmz1 {
 	"""
-	PROGRAMADORES
+	    AKIHIRO SHISHIDO
 	"""
 	end
 }
 script 440 mmz1 {
 	"""
-	      TAKAYUKI INOUE
+	    HIROKATSU KAWANISHI
 	"""
 	end
 }
@@ -2726,13 +2735,13 @@ script 441 mmz1 {
 }
 script 442 mmz1 {
 	"""
-	      KAZUTAKA YANAGISAWA
+	DESENHISTA DE SOM
 	"""
 	end
 }
 script 443 mmz1 {
 	"""
-	      AKIHIRO SHISHIDO
+	    IPPO YAMADA
 	"""
 	end
 }
@@ -2741,82 +2750,85 @@ script 444 mmz1 {
 }
 script 445 mmz1 {
 	"""
-	      HIROKATSU KAWANISHI
+	VOZES
 	"""
 	end
 }
 script 446 mmz1 {
+	"""
+	    YUTO KAZAMA
+	"""
 	end
 }
 script 447 mmz1 {
 	"""
-	DESENHISTA DE SOM
+	    RIE TANAKA
 	"""
 	end
 }
 script 448 mmz1 {
 	"""
-	      IPPO YAMADA
+	    MEGUMI OGATA
 	"""
 	end
 }
 script 449 mmz1 {
+	"""
+	    KAZUYA NAKAI
+	"""
 	end
 }
 script 450 mmz1 {
 	"""
-	VOZES
+	    TETSU INADA
 	"""
 	end
 }
 script 451 mmz1 {
 	"""
-	      YUTO KAZAMA
+	    YUKA IMAI
 	"""
 	end
 }
 script 452 mmz1 {
-	"""
-	      RIE TANAKA
-	"""
 	end
 }
 script 453 mmz1 {
-	"""
-	      MEGUMI OGATA
-	"""
-	end
-}
-script 454 mmz1 {
-	"""
-	      KAZUYA NAKAI
-	"""
-	end
-}
-script 455 mmz1 {
-	"""
-	      TETSU INADA
-	"""
-	end
-}
-script 456 mmz1 {
-	"""
-	      YUKA IMAI
-	"""
-	end
-}
-script 457 mmz1 {
-	end
-}
-script 458 mmz1 {
 	"""
 	DESENHO DE PACOTE
 	"""
 	end
 }
+script 454 mmz1 {
+	"""
+	    MINORU NAGAOKA
+	"""
+	end
+}
+script 455 mmz1 {
+	end
+}
+script 456 mmz1 {
+	"""
+	TESTADORES
+	"""
+	end
+}
+script 457 mmz1 {
+	"""
+	    AKINORI MURATA
+	"""
+	end
+}
+script 458 mmz1 {
+	"""
+	    TAKASHI HASHIMOTO
+	"""
+	end
+}
 script 459 mmz1 {
 	"""
-	      MINORU NAGAOKA
+	    NAOKI KAMURA
 	"""
 	end
 }
@@ -2825,130 +2837,127 @@ script 460 mmz1 {
 }
 script 461 mmz1 {
 	"""
-	TESTADORES
+	AGRADECIMENTOS ESPECIAIS
 	"""
 	end
 }
 script 462 mmz1 {
 	"""
-	      AKINORI MURATA
+	    OOKO
 	"""
 	end
 }
 script 463 mmz1 {
 	"""
-	      TAKASHI HASHIMOTO
+	    MAKOTO TOMOZAWA
 	"""
 	end
 }
 script 464 mmz1 {
 	"""
-	      NAOKI KAMURA
+	    TOSHIHIKO UKAI
 	"""
 	end
 }
 script 465 mmz1 {
+	"""
+	    KUNIHITO TAKASHIMA
+	"""
 	end
 }
 script 466 mmz1 {
 	"""
-	AGRADECIMENTOS ESPECIAIS
+	    KUNIO FUNAHARA
 	"""
 	end
 }
 script 467 mmz1 {
 	"""
-	      OOKO
+	    HIROKO NAKAMURA
 	"""
 	end
 }
 script 468 mmz1 {
 	"""
-	      MAKOTO TOMOZAWA
+	    HIROYUKI IRIE
 	"""
 	end
 }
 script 469 mmz1 {
 	"""
-	      TOSHIHIKO UKAI
+	    SHIGEYOSHI KOBAYASHI
 	"""
 	end
 }
 script 470 mmz1 {
 	"""
-	      KUNIHITO TAKASHIMA
+	    ASUKA HAYASHI
 	"""
 	end
 }
 script 471 mmz1 {
 	"""
-	      KUNIO FUNAHARA
+	    SARA TANAKA
 	"""
 	end
 }
 script 472 mmz1 {
 	"""
-	      HIROKO NAKAMURA
+	    HIRONORI OJIMA
 	"""
 	end
 }
 script 473 mmz1 {
 	"""
-	      HIROYUKI IRIE
+	    TAKUYA SHIRAIWA
 	"""
 	end
 }
 script 474 mmz1 {
 	"""
-	      SHIGEYOSHI KOBAYASHI
+	    Shizukichi Abe
 	"""
 	end
 }
 script 475 mmz1 {
 	"""
-	      ASUKA HAYASHI
+	    Erik“GenAzea”Suzuki
 	"""
 	end
 }
 script 476 mmz1 {
 	"""
-	      SARA TANAKA
+	    KAORI FUNAKOSHI
 	"""
 	end
 }
 script 477 mmz1 {
 	"""
-	      HIRONORI OJIMA
+	    STUDIO882
 	"""
 	end
 }
 script 478 mmz1 {
-	"""
-	      TAKUYA SHIRAIWA
-	"""
 	end
 }
 script 479 mmz1 {
 	"""
-	      Shizukichi Abe
+	E TODA A EQUIPE DA CAPCOM
 	"""
 	end
 }
 script 480 mmz1 {
-	"""
-	      Erik“GenAzea”Suzuki
-	"""
 	end
 }
 script 481 mmz1 {
 	"""
-	      KAORI FUNAKOSHI
+	SUPERVISOR
 	"""
 	end
 }
 script 482 mmz1 {
 	"""
-	      STUDIO882
+	    YOSHIHISA TSUDA
 	"""
 	end
 }
@@ -2957,55 +2966,58 @@ script 483 mmz1 {
 }
 script 484 mmz1 {
 	"""
-	E TODA A EQUIPE DA CAPCOM
+	PRODUTORES
 	"""
 	end
 }
 script 485 mmz1 {
+	"""
+	    TAKUYA AIZU
+	"""
 	end
 }
 script 486 mmz1 {
 	"""
-	SUPERVISOR
+	    KEIJI INAFUNE
 	"""
 	end
 }
 script 487 mmz1 {
-	"""
-	      YOSHIHISA TSUDA
-	"""
 	end
 }
 script 488 mmz1 {
 	end
 }
 script 489 mmz1 {
-	"""
-	PRODUTORES
-	"""
 	end
 }
 script 490 mmz1 {
 	"""
-	      TAKUYA AIZU
+	TRADUÇÃO PT-BR
 	"""
 	end
 }
 script 491 mmz1 {
 	"""
-	      KEIJI INAFUNE
+	    MJay,Solid One,
 	"""
 	end
 }
 script 492 mmz1 {
+	"""
+	    Joapeer,Breno,
+	"""
 	end
 }
 script 493 mmz1 {
+	"""
+	    GDK,Gustavo Fraga,
+	"""
 	end
 }
 script 494 mmz1 {
 	"""
-	APRESENTADO PELA CAPCOM
+	    TTK,GreigaMaster
 	"""
 	end
 }
@@ -3016,6 +3028,9 @@ script 496 mmz1 {
 	end
 }
 script 497 mmz1 {
+	"""
+	APRESENTADO PELA CAPCOM
+	"""
 	end
 }
 script 498 mmz1 {

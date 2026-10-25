@@ -40,7 +40,7 @@
 .org 0x082CC120
     .stringn "{colecionador}" ; Encurtado com tiles sobrando
 .org 0x082CC132
-    .stringn "  MEDROSO"
+    .stringn "  COVARDE"
 
 ; Script de textos diversos, inserido no mesmo offset do original,
 ; porém delimitado para não passar do offset onde ele termina.
