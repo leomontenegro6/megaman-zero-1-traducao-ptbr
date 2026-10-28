@@ -9,6 +9,7 @@ $graficos = [
     (object)['nome' => 'Press Start', 'offset' => '0x30AD34', 'tiles' => '16x2', 'codec' => '4bpp'],
     (object)['nome' => 'New Game', 'offset' => '0x30B194', 'tiles' => '10x2', 'codec' => '4bpp'],
     (object)['nome' => 'Continue', 'offset' => '0x30B414', 'tiles' => '10x2', 'codec' => '4bpp'],
+    (object)['nome' => 'Subtank Main Elf Sub Element Escape', 'offset' => '0x532BF4', 'tiles' => '16x4', 'codec' => '4bpp'],
     (object)['nome' => 'Sound Only', 'offset' => '0x7E9DAC', 'tiles' => '8x8', 'codec' => '4bpp'],
 ];
 

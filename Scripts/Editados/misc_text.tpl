@@ -454,14 +454,6 @@ script 69 mmz1 {
 	DESISTIR
 	"""
 	textColorWhite
-	"""
-	 
-	"""
-	textColorRed
-	"""
-	DESISTIR
-	"""
-	textColorWhite
 	end
 }
 script 70 mmz1 {
@@ -1830,256 +1822,116 @@ script 301 mmz1 {
 }
 script 302 mmz1 {
 	"""
-	Pistola Z
-	"""
-	textColorRed
-	"""
-	★
-	"""
-	textColorWhite
-	"""
-	☆☆☆
+	Pistola Z{Red}★{White}☆☆☆
 	"""
 	end
 }
 script 303 mmz1 {
 	"""
-	Pistola Z
-	"""
-	textColorRed
-	"""
-	★★
-	"""
-	textColorWhite
-	"""
-	☆☆
+	Pistola Z{Red}★★{White}☆☆
 	"""
 	end
 }
 script 304 mmz1 {
 	"""
-	Pistola Z
-	"""
-	textColorRed
-	"""
-	★★★
-	"""
-	textColorWhite
-	"""
-	☆
+	Pistola Z{Red}★★★{White}☆
 	"""
 	end
 }
 script 305 mmz1 {
 	"""
-	Pistola Z
+	Pistola Z{Red}★★★★{White}
 	"""
-	textColorRed
-	"""
-	★★★★
-	"""
-	textColorWhite
 	end
 }
 script 306 mmz1 {
 	"""
-	Sabre Z
-	"""
-	textColorRed
-	"""
-	★
-	"""
-	textColorWhite
-	"""
-	☆☆☆☆☆☆
+	Sabre Z{Red}★{White}☆☆☆☆☆☆
 	"""
 	end
 }
 script 307 mmz1 {
 	"""
-	Sabre Z
-	"""
-	textColorRed
-	"""
-	★★
-	"""
-	textColorWhite
-	"""
-	☆☆☆☆☆
+	Sabre Z{Red}★★{White}☆☆☆☆☆
 	"""
 	end
 }
 script 308 mmz1 {
 	"""
-	Sabre Z
-	"""
-	textColorRed
-	"""
-	★★★
-	"""
-	textColorWhite
-	"""
-	☆☆☆☆
+	Sabre Z{Red}★★★{White}☆☆☆☆
 	"""
 	end
 }
 script 309 mmz1 {
 	"""
-	Sabre Z
-	"""
-	textColorRed
-	"""
-	★★★★
-	"""
-	textColorWhite
-	"""
-	☆☆☆
+	Sabre Z{Red}★★★★{White}☆☆☆
 	"""
 	end
 }
 script 310 mmz1 {
 	"""
-	Sabre Z
-	"""
-	textColorRed
-	"""
-	★★★★★
-	"""
-	textColorWhite
-	"""
-	☆☆
+	Sabre Z{Red}★★★★★{White}☆☆
 	"""
 	end
 }
 script 311 mmz1 {
 	"""
-	Sabre Z
-	"""
-	textColorRed
-	"""
-	★★★★★★
-	"""
-	textColorWhite
-	"""
-	☆
+	Sabre Z{Red}★★★★★★{White}☆
 	"""
 	end
 }
 script 312 mmz1 {
 	"""
-	Sabre Z
+	Sabre Z{Red}★★★★★★★{White}
 	"""
-	textColorRed
-	"""
-	★★★★★★★
-	"""
-	textColorWhite
 	end
 }
 script 313 mmz1 {
 	"""
-	Lança Tripla
-	"""
-	textColorRed
-	"""
-	★
-	"""
-	textColorWhite
-	"""
-	☆☆☆☆
+	Lança Tripla{Red}★{White}☆☆☆☆
 	"""
 	end
 }
 script 314 mmz1 {
 	"""
-	Lança Tripla
-	"""
-	textColorRed
-	"""
-	★★
-	"""
-	textColorWhite
-	"""
-	☆☆☆
+	Lança Tripla{Red}★★{White}☆☆☆
 	"""
 	end
 }
 script 315 mmz1 {
 	"""
-	Lança Tripla
-	"""
-	textColorRed
-	"""
-	★★★
-	"""
-	textColorWhite
-	"""
-	☆☆
+	Lança Tripla{Red}★★★{White}☆☆
 	"""
 	end
 }
 script 316 mmz1 {
 	"""
-	Lança Tripla
-	"""
-	textColorRed
-	"""
-	★★★★
-	"""
-	textColorWhite
-	"""
-	☆
+	Lança Tripla{Red}★★★★{White}☆
 	"""
 	end
 }
 script 317 mmz1 {
 	"""
-	Lança Tripla
+	Lança Tripla{Red}★★★★★{White}
 	"""
-	textColorRed
-	"""
-	★★★★★
-	"""
-	textColorWhite
 	end
 }
 script 318 mmz1 {
 	"""
-	Escudo Bumerangue
-	"""
-	textColorRed
-	"""
-	★
-	"""
-	textColorWhite
-	"""
-	☆☆
+	Escudo Bumerangue{Red}★{White}☆☆
 	"""
 	end
 }
 script 319 mmz1 {
 	"""
-	Escudo Bumerangue
-	"""
-	textColorRed
-	"""
-	★★
-	"""
-	textColorWhite
-	"""
-	☆
+	Escudo Bumerangue{Red}★★{White}☆
 	"""
 	end
 }
 script 320 mmz1 {
 	"""
-	Escudo Bumerangue
+	Escudo Bumerangue{Red}★★★{White}
 	"""
-	textColorRed
-	"""
-	★★★
-	"""
-	textColorWhite
 	end
 }
 script 321 mmz1 {

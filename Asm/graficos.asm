@@ -24,6 +24,8 @@
     .incbin "Graficos/Editados/New Game.gba"
 .org 0x0830B414
     .incbin "Graficos/Editados/Continue.gba"
+.org 0x08532BF4
+    .incbin "Graficos/Editados/Subtank Main Elf Sub Element Escape.gba"
 .org 0x087E9DAC
     .incbin "Graficos/Editados/Sound Only.gba"
 
