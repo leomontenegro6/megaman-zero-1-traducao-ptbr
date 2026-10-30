@@ -8,9 +8,6 @@ script 0 mmz1 {
 	Obrigado por me
 	salvar. Tem mais
 	6 reploides presos
-	"""
-	msgClear
-	"""
 	por aqui.
 	"""
 	msgClear
@@ -69,10 +66,10 @@ script 5 mmz1 {
 	mugshotShow
 		mugshot = 44
 	"""
-	Falta mais 1
+	Falta mais um
 	prisioneiro.
-	Obrigado por nos
-	salvar!
+	Obrigado por
+	nos salvar!
 	"""
 	end
 }
@@ -95,12 +92,9 @@ script 7 mmz1 {
 	mugshotShow
 		mugshot = 46
 	"""
-	Obrigado por me
+	Obrigada por me
 	salvar. Tem mais
 	6 reploides presos
-	"""
-	msgClear
-	"""
 	por aqui...
 	"""
 	msgClear
@@ -147,7 +141,7 @@ script 11 mmz1 {
 	mugshotShow
 		mugshot = 46
 	"""
-	Obrigado por me
+	Obrigada por me
 	salvar!
 	"""
 	end
@@ -209,23 +203,15 @@ script 15 mmz1 {
 }
 script 16 mmz1 {
 	"""
-	CIEL: Essa é a base
+	CIEL: Essa é a base secret{a!}
 	"""
 	msgClear
 	"""
-	secreta!
+	CIEL: Espera aí que eu vou
 	"""
 	msgClear
 	"""
-	CIEL: Espera aí que
-	"""
-	msgClear
-	"""
-	eu vou abrir a porta
-	"""
-	msgClear
-	"""
-	pra você.
+	abrir a porta pra você.
 	"""
 	msgClear
 	"""
@@ -273,7 +259,7 @@ script 18 mmz1 {
 	"""
 	msgClear
 	"""
-	que ela dá...?
+	que essa porta dá...?
 	"""
 	msgClear
 	"""
@@ -291,7 +277,7 @@ script 18 mmz1 {
 }
 script 19 mmz1 {
 	"""
-	CIEL:Eles te acharam?
+	CIEL: Eles te acharam?
 	"""
 	msgClear
 	"""
@@ -407,11 +393,7 @@ script 25 mmz1 {
 	"""
 	Eu sou Blizzack
 	Staggroff, o melhor
-	guerreiro de
-	"""
-	msgClear
-	"""
-	Leviatã,
+	guerreiro{_de_}Leviatã,
 	a guardiã.
 	"""
 	msgClear
@@ -443,7 +425,7 @@ script 27 mmz1 {
 	CIEL:
 	“Entendido! E não
 	esquece de trazer
-	o Chip de gelo!
+	o Chip do gelo!
 	"""
 	msgClear
 	"""

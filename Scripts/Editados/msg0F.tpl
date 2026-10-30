@@ -48,7 +48,7 @@ script 1 mmz1 {
 	"""
 	msgClear
 	"""
-	Obrigado por toda
+	Obrigada por toda
 	a sua ajuda...
 	"""
 	msgClear
@@ -242,8 +242,8 @@ script 6 mmz1 {
 		mugshot = 21
 	"""
 	Ora ora ora.
-	Então é você que
-	tá todo mundo
+	Então é você de
+	quem tá todo mundo
 	falando.
 	"""
 	msgClear

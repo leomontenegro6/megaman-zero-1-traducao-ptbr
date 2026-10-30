@@ -115,11 +115,7 @@ script 5 mmz1 {
 }
 script 6 mmz1 {
 	"""
-	CIEL: Bom trabalho,
-	"""
-	msgClear
-	"""
-	Zero!!
+	CIEL: Bom trabalho, Zero!!
 	"""
 	msgClear
 	"""

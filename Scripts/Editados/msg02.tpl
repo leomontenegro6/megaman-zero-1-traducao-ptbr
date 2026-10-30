@@ -128,7 +128,7 @@ script 1 mmz1 {
 	msgClear
 	"""
 	Ciel e eu estamos
-	pesquisado e
+	pesquisando e
 	experimentando com
 	entidades chamadas
 	"""
@@ -136,7 +136,7 @@ script 1 mmz1 {
 	"""
 	Cyber-elfos. Eles
 	gentilmente me
-	cederem a sala de
+	cederam a sala de
 	máquinas,
 	"""
 	msgClear
@@ -154,17 +154,14 @@ script 2 mmz1 {
 	Eu queria ter tempo
 	e dados pra
 	desenvolver armas
-	"""
-	msgClear
-	"""
 	pra você.
 	"""
 	msgClear
 	"""
 	Eu estou muito
-	ocupado para pedir
-	ao velho Andrew me
-	contar sobre os
+	ocupado pedindo ao
+	velho Andrew para
+	me contar sobre os
 	"""
 	msgClear
 	"""
@@ -277,7 +274,7 @@ script 7 mmz1 {
 	msgClear
 	"""
 	usa o Escudo
-	bumerangue.
+	Bumerangue.
 	"""
 	end
 }
@@ -450,12 +447,12 @@ script 20 mmz1 {
 		mugshot = 54
 	"""
 	Hmmm... você é novo,
-	não é? Você tá
-	botando pra quebrar
-	pra ser um
+	não é?
 	"""
 	msgClear
 	"""
+	Tá botando pra
+	quebrar pra ser um
 	reploide como os
 	outros?
 	"""
@@ -464,16 +461,11 @@ script 20 mmz1 {
 	Escuta, filho.
 	"""
 	msgClear
-	"""
-	Está interessado
-	no
-	"""
-	msgClear
 	option
 		secondAnswerIndex = 1
 	"""
-	que eu tenho a
-	dizer?
+	Está interessado no
+	que tenho a dizer?
 	  Sim, estou.
 	  Não. Tô ocupado.
 	"""
@@ -488,8 +480,7 @@ script 20 mmz1 {
 	"""
 	Pode não parecer,
 	mas eu já fui um
-	reploide
-	gatão.
+	reploide gatão.
 	"""
 	msgClear
 	"""
@@ -500,15 +491,13 @@ script 20 mmz1 {
 	"""
 	Tudo aconteceu
 	numa noite de
-	lua
-	cheia...
+	lua cheia...
 	"""
 	msgClear
 	"""
 	Eu estava carregando
 	contêineres em um
-	armazém no
-	porto,
+	armazém no porto,
 	"""
 	msgClear
 	"""
@@ -520,52 +509,46 @@ script 20 mmz1 {
 	msgClear
 	"""
 	linda mulher de
-	cabelo longo
-	cantando pra uma
-	multidão na
+	cabelos longos
+	cantando pra
+	uma multidão
 	"""
 	msgClear
 	"""
-	frente do
+	na frente do
 	porto.
 	"""
 	msgClear
 	"""
-	Eu fiquei surpreso
-	ao descobrir que
-	fiquei tão comovido
+	Me surpreendi ao
+	descobrir que fiquei
+	bastante comovido
 	com a sua voz,
 	"""
 	msgClear
 	"""
 	apesar do meu corpo
-	e mente ser feito de
-	circuitos...
+	e mente serem feitos
+	de circuitos...
 	"""
 	msgClear
 	"""
 	Depois de nos
 	conhecermos melhor,
 	nos apaixonamos
-	e
 	"""
 	msgClear
 	"""
-	finalmente começamos
-	a morar
+	e finalmente
+	começamos a morar
 	juntos...
-	"""
-	msgClear
-	"""
-	Hmm? Já está cansado
-	de ouvir
 	"""
 	msgClear
 	option
 		secondAnswerIndex = 2
 	"""
-	a minha
-	história?
+	Hmm? Já cansou de
+	ouvir a história?
 	  Sim.
 	  Na verdade não.
 	"""
@@ -574,11 +557,7 @@ script 20 mmz1 {
 	Entendo. Não tem
 	problema. É chato
 	ouvir o que os
-	velhos têm a
-	"""
-	msgClear
-	"""
-	dizer.
+	velhos têm a dizer.
 	"""
 	msgSubEnd
 	msgSub
@@ -604,8 +583,7 @@ script 20 mmz1 {
 	"""
 	Eu falei que a
 	gente tinha ido
-	morar junto,
-	né?
+	morar junto, né?
 	"""
 	msgClear
 	"""
@@ -616,22 +594,23 @@ script 20 mmz1 {
 	"""
 	msgClear
 	"""
-	enquanto eu
-	permaneci jovem. Ela
-	passou a se
-	ressentir da própria
+	enquanto permaneci
+	jovem. Ela passou a
+	se ressentir da
+	própria aparência
 	"""
 	msgClear
 	"""
-	aparência e começou
-	a me evitar. Então
-	eu pedi pra Ciel me
+	e começou a me
+	evitar. Então eu
+	pedi pra Ciel me
 	deixar assim...
 	"""
 	msgClear
 	"""
-	Assim, poderíamos
-	ficar juntos.
+	Desse jeito,
+	poderíamos ficar
+	juntos.
 	"""
 	msgClear
 	"""
@@ -1093,7 +1072,7 @@ script 40 mmz1 {
 	"""
 	msgClear
 	"""
-	“ZERO, O
+	“ZERO, o
 	
 	"""
 	printCodeName
@@ -1132,11 +1111,10 @@ script 42 mmz1 {
 	Se tiver tempo,
 	por	que não fala
 	com reploides?
-	Alguns
 	"""
 	msgClear
 	"""
-	são meio
+	Alguns são meio
 	excêntricos, mas
 	todos são honestos.
 	"""
@@ -1275,13 +1253,16 @@ script 53 mmz1 {
 	mugshotShow
 		mugshot = 52
 	"""
-	Eu diria que você
-	é um 
+	Eu diria que
+	você é um 
 	
 	"""
 	printCodeName
 	"""
 	.
+	"""
+	msgClear
+	"""
 	É por isso que você
 	conseguiu salvar
 	a Ciel, eu acho.
@@ -1834,7 +1815,7 @@ script 86 mmz1 {
 	mugshotShow
 		mugshot = 45
 	"""
-	É você que eles
+	É você quem eles
 	chamam de Zero?
 	A Ciel tava te
 	procurando.
@@ -1988,8 +1969,8 @@ script 95 mmz1 {
 		mugshot = 44
 	"""
 	Nós recebemos
-	informações que tem
-	alguns inimigos
+	informações de que
+	tem alguns inimigos
 	por aqui...
 	"""
 	msgClear
@@ -2996,12 +2977,13 @@ script 228 mmz1 {
 	msgClear
 	"""
 	Aliás, você percebeu
-	aquela sala estranha
-	perto da
+	aquela porta
+	estranha
 	"""
 	msgClear
 	"""
-	Sala de servidores?
+	perto da Sala de
+	servidores?
 	"""
 	end
 }
@@ -3023,12 +3005,13 @@ script 229 mmz1 {
 	msgClear
 	"""
 	Aliás, você percebeu
-	aquela sala estranha
-	perto da
+	aquela porta
+	estranha
 	"""
 	msgClear
 	"""
-	Sala de servidores?
+	perto da Sala
+	de servidores?
 	"""
 	end
 }

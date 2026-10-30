@@ -19,11 +19,7 @@ script 0 mmz1 {
 	"""
 	msgClear
 	"""
-	procurando os dados
-	"""
-	msgClear
-	"""
-	também.
+	procurando os dados também.
 	"""
 	msgClear
 	"""
@@ -37,11 +33,7 @@ script 2 mmz1 {
 	"""
 	msgClear
 	"""
-	maciça vindo da outra
-	"""
-	msgClear
-	"""
-	sala!
+	maciça vindo da outra sala!
 	"""
 	msgClear
 	"""
@@ -60,24 +52,24 @@ script 3 mmz1 {
 	"""
 	Eu sou responsável
 	pelo processamento
-	de dados e
+	de dados
 	"""
 	msgClear
 	"""
-	tratamento de
+	e tratamento de
 	informações.
-	Todas os dados sobre
-	você foram
+	Todas os dados
+	sobre você
 	"""
 	msgClear
 	"""
-	armazenados no
+	foram armazenados no
 	servidor do meu
 	corpo.
 	"""
 	msgClear
 	"""
-	Se quiser-los, você
+	Se os quiser, você
 	vai ter que me matar
 	e baixá-los do meu
 	corpo...

@@ -168,7 +168,7 @@ script 7 mmz1 {
 	"""
 	CIEL:
 	Não esqueça de pegar
-	o Chip de fogo antes
+	o Chip do fogo antes
 	de voltar!”
 	"""
 	end

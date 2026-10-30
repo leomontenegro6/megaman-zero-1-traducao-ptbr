@@ -34,12 +34,13 @@ script 2 mmz1 {
 		mugshot = 19
 	"""
 	Meu nome é Aztec
-	Falcon. Harpuia, o
-	guardião, me mandou
-	para acompanhar a
+	Falcon.
 	"""
 	msgClear
 	"""
+	Harpuia, o guardião,
+	me mandou para
+	acompanhar a
 	execução.
 	"""
 	end
@@ -65,7 +66,7 @@ script 4 mmz1 {
 	"""
 	msgClear
 	"""
-	He he. Bem na hora
+	He he. Bem na hora,
 	então. Eu vou matar
 	todo mundo!
 	"""

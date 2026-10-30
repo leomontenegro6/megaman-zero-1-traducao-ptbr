@@ -15,7 +15,7 @@ script 0 mmz1 {
 	"""
 	msgClear
 	"""
-	é maçiça!
+	é maciça!
 	"""
 	end
 }

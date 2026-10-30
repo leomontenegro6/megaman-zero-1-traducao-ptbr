@@ -207,11 +207,11 @@ script 13 mmz1 {
 	"""
 	X...
 	O reploide lendário
-	ainda está vivo e
+	ainda está vivo
 	"""
 	msgClear
 	"""
-	tentando matar
+	e tentando matar
 	todos nós.
 	"""
 	msgClear
@@ -507,12 +507,13 @@ script 20 mmz1 {
 	"""
 	Nós queremos parar o
 	trem de transporte
-	inimigo para
+	inimigo
 	"""
 	msgClear
 	"""
-	interromper a linha
-	de suprimentos.
+	para interromper
+	a linha de
+	suprimentos.
 	"""
 	msgClear
 	"""
@@ -551,7 +552,7 @@ script 21 mmz1 {
 	msgClear
 	"""
 	a nossa dependência
-	sobre você.
+	de você.
 	"""
 	msgClear
 	"""
@@ -682,11 +683,11 @@ script 25 mmz1 {
 	Recebemos um
 	relatório que o
 	inimigo está se
-	reunindo na área do
+	reunindo
 	"""
 	msgClear
 	"""
-	deserto.
+	na área do deserto.
 	"""
 	msgClear
 	"""
@@ -704,11 +705,12 @@ script 25 mmz1 {
 	Mesmo que os
 	soldados tenham
 	construído
-	barricadas e estão
+	barricadas
 	"""
 	msgClear
 	"""
-	atentos, ainda estou
+	e estejam atentos,
+	ainda estou
 	preocupada.
 	"""
 	msgClear
@@ -723,7 +725,7 @@ script 26 mmz1 {
 		mugshot = 6
 	"""
 	Recebemos
-	informações que
+	informações de que
 	existe uma base
 	inimiga escondida
 	"""
@@ -804,12 +806,12 @@ script 27 mmz1 {
 	"""
 	Zero, pode entrar
 	naquela base
-	escondida e
+	escondida
 	"""
 	msgClear
 	"""
-	destruir o servidor
-	principal?
+	e destruir o
+	servidor principal?
 	"""
 	end
 }
@@ -982,9 +984,6 @@ script 33 mmz1 {
 	Eu vou hackear a
 	base inimiga pra
 	impedir eles de
-	"""
-	msgClear
-	"""
 	os usarem.
 	"""
 	end
@@ -1142,8 +1141,8 @@ script 37 mmz1 {
 	msgClear
 	"""
 	Com a sua
-	cooperação,	talvez
-	a paz será
+	cooperação, talvez
+	a paz seja
 	restaurada...
 	"""
 	end
@@ -1259,9 +1258,9 @@ script 42 mmz1 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Apesar de você, o
-	Colbor não
-	sobreviveu.
+	Apesar de seus
+	esforços, o Colbor
+	não sobreviveu.
 	"""
 	msgClear
 	"""
@@ -1400,7 +1399,7 @@ script 46 mmz1 {
 	msgClear
 	"""
 	TODOS nós estávamos
-	preocupado com
+	preocupados com
 	você.
 	"""
 	end
@@ -1444,19 +1443,16 @@ script 48 mmz1 {
 		mugshot = 6
 	"""
 	Peço desculpas por
-	perdirmos a sua
-	ajuda em uma
+	pedirmos sua ajuda
+	em uma missão tão
+	perigosa.
 	"""
 	msgClear
 	"""
-	missão tão perigosa.
-	"""
-	msgClear
-	"""
-	Estamos gratos pelos
-	seus esforços,
-	sejam lá os
-	resultados.
+	Estamos gratos
+	pelos seus esforços,
+	sejam lá quais forem
+	os resultados.
 	"""
 	msgClear
 	"""
@@ -1500,12 +1496,8 @@ script 50 mmz1 {
 	"""
 	Com a linha de
 	defesa quebrada,
-	a base é
-	"""
-	msgClear
-	"""
-	um alvo fácil pra
-	eles.
+	a base é um alvo
+	fácil pra eles.
 	"""
 	msgClear
 	"""
@@ -1522,10 +1514,10 @@ script 51 mmz1 {
 	Zero...
 	Graças a você, sete
 	reploides foram
+	salvos...
 	"""
 	msgClear
 	"""
-	salvos...
 	Nem sei como te
 	agradecer...
 	"""
@@ -1593,10 +1585,7 @@ script 52 mmz1 {
 	"""
 	Bom, faz parte de
 	uma guerra. Mas
-	obrigado por
-	"""
-	msgClear
-	"""
+	obrigada por
 	tentar...
 	"""
 	msgClear
@@ -1647,9 +1636,6 @@ script 54 mmz1 {
 	Transervidor, então
 	algumas funções não
 	estão mais
-	"""
-	msgClear
-	"""
 	disponíveis...
 	"""
 	msgClear
@@ -1669,8 +1655,8 @@ script 55 mmz1 {
 	mugshotShow
 		mugshot = 6
 	"""
-	Zero, estamos nos
-	nossos limites.
+	Zero, estamos no
+	nosso limite.
 	"""
 	msgClear
 	"""
@@ -1686,9 +1672,6 @@ script 56 mmz1 {
 	Zero...
 	Promete que você não
 	vai se arriscar
-	"""
-	msgClear
-	"""
 	tanto assim...
 	"""
 	msgClear
@@ -1821,8 +1804,8 @@ script 66 mmz1 {
 	mugshotShow
 		mugshot = 2
 	"""
-	Você quer salvar a
-	jogatina zerada?
+	Quer salvar o jogo
+	após zerar?
 	  SIM
 	  NÃO
 	"""
