@@ -19,11 +19,11 @@ script 1 mmz1 {
 	"""
 	Em nome de Harpuia,
 	o guardião do
-	Mestre X, eu,
+	Mestre X,
 	"""
 	msgClear
 	"""
-	Herculious
+	eu, Herculious
 	Anchortus, o
 	matarei.
 	"""

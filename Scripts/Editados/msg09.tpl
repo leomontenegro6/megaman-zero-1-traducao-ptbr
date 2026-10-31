@@ -15,9 +15,6 @@ script 0 mmz1 {
 	fábrica, a abertura
 	começará a fechar
 	pra impedi-lo de
-	"""
-	msgClear
-	"""
 	avançar!”
 	"""
 	msgClear

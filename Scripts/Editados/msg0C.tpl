@@ -126,11 +126,7 @@ script 9 mmz1 {
 	"""
 	msgClear
 	"""
-	Meu nome é
-	Fafnir,
-	"""
-	msgClear
-	"""
+	Meu nomed é Fafnir,
 	um dos quatro
 	guardiões do
 	Mestre X!

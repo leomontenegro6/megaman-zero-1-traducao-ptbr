@@ -87,19 +87,11 @@ script 3 mmz1 {
 	"""
 	msgClear
 	"""
-	pra desarmar as
+	pra desarmar as bombas!
 	"""
 	msgClear
 	"""
-	bombas!
-	"""
-	msgClear
-	"""
-	CIEL: Evacuação geral
-	"""
-	msgClear
-	"""
-	agora!
+	CIEL: Evacuação geral agor{a!}
 	"""
 	end
 }
@@ -107,11 +99,11 @@ script 4 mmz1 {
 	cmdF8
 		parameter1 = 154
 	"""
-	CIEL: Você quer
+	CIEL: Você quer desarmar
 	"""
 	msgClear
 	"""
-	desarmar as bombas?
+	as bombas?
 	"""
 	msgClear
 	"""
@@ -145,31 +137,19 @@ script 4 mmz1 {
 }
 script 5 mmz1 {
 	"""
-	CIEL: Corte a bomba
+	CIEL: Corte a bomba com o
 	"""
 	msgClear
 	"""
-	com o seu sabre e
+	seu sabre e toque-a para
 	"""
 	msgClear
 	"""
-	toque-a para
+	desativá-la e recuperá-la.
 	"""
 	msgClear
 	"""
-	desativá-la e
-	"""
-	msgClear
-	"""
-	recuperá-la.
-	"""
-	msgClear
-	"""
-	CIEL: Só toma muito
-	"""
-	msgClear
-	"""
-	cuidado.
+	CIEL: Só toma muito cuidad{o.}
 	"""
 	end
 }
@@ -255,11 +235,10 @@ script 15 mmz1 {
 	CIEL:
 	“As bombas foram
 	desativadas e o
-	Zero
+	Zero está bem... 
 	"""
 	msgClear
 	"""
-	está bem... 
 	Ufa...
 	"""
 	msgClear

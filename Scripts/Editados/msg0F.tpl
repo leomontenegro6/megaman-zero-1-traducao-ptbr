@@ -179,9 +179,6 @@ script 3 mmz1 {
 	"""
 	os reploides de
 	cima não podem ir
-	"""
-	msgClear
-	"""
 	pras cápsulas de
 	evacuação.
 	"""
@@ -224,16 +221,16 @@ script 5 mmz1 {
 	"""
 	msgClear
 	"""
-	estão guardados. Se
-	perdermos os
-	cristais de
+	estão guardados.
+	Se perdermos os
+	cristais de energia,
+	acabou pra gente.
 	"""
 	msgClear
 	"""
-	energia, acabou pra
-	gente. Vá pra lá e
-	proteja os cristais
-	de energia!”
+	Vá pra lá e proteja
+	os cristais de
+	energia!”
 	"""
 	end
 }

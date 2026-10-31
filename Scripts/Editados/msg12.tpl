@@ -122,7 +122,7 @@ script 7 mmz1 {
 	"""
 	msgClear
 	"""
-	Morte para
+	Morte para os
 	Mavericks.
 	"""
 	msgClear
@@ -416,8 +416,8 @@ script 18 mmz1 {
 	"""
 	msgClear
 	"""
-	Ninguém pediu por
-	isso!
+	Ninguém pediu
+	por isso!
 	Tudo isso aqui é
 	uma piada!
 	"""

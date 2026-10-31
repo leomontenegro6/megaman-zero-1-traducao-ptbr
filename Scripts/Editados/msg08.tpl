@@ -7,11 +7,7 @@ script 0 mmz1 {
 	"""
 	msgClear
 	"""
-	inimigas estão
-	"""
-	msgClear
-	"""
-	aumentando!
+	inimigas estão aumentando!
 	"""
 	msgClear
 	"""

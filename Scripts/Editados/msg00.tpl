@@ -559,13 +559,12 @@ script 21 mmz1 {
 	Parece que ele achou
 	um caminho da base
 	deles pela área
+	do metrô,
 	"""
 	msgClear
 	"""
-	do metrô, mas
-	perdemos contato
+	mas perdemos contato
 	com a equipe dele...
-	
 	"""
 	msgClear
 	"""
@@ -681,9 +680,9 @@ script 25 mmz1 {
 		mugshot = 6
 	"""
 	Recebemos um
-	relatório que o
-	inimigo está se
-	reunindo
+	relatório de que
+	o inimigo está
+	se reunindo
 	"""
 	msgClear
 	"""
@@ -772,12 +771,13 @@ script 27 mmz1 {
 	"""
 	O servidor principal
 	da base da
-	Resistência tem sido
+	Resistência
 	"""
 	msgClear
 	"""
-	o alvo de vários
-	ataques maliciosos.
+	tem sido o alvo de
+	vários ataques
+	maliciosos.
 	"""
 	msgClear
 	"""
@@ -1246,11 +1246,11 @@ script 41 mmz1 {
 	Às vezes ele erra,
 	mas no fundo, ele
 	é um reploide de
+	bom coração.
 	"""
 	msgClear
 	"""
-	bom coração. Por
-	favor, perdoe-o.
+	Por favor, perdoe-o.
 	"""
 	end
 }
@@ -1276,12 +1276,12 @@ script 43 mmz1 {
 	"""
 	Graças a você, nós
 	tomamos a fábrica.
-	Agora podemos
 	"""
 	msgClear
 	"""
-	viver sem temer a
-	morte.
+	Agora podemos
+	viver sem temer
+	a morte.
 	"""
 	msgClear
 	"""

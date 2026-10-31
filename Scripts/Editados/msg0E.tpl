@@ -161,9 +161,6 @@ script 6 mmz1 {
 	Meu nome é
 	Leviatã, uma do
 	quatro guardiões
-	"""
-	msgClear
-	"""
 	do Mestre X.
 	"""
 	msgClear
@@ -171,11 +168,12 @@ script 6 mmz1 {
 	Depois de ouvir
 	tanto de você do
 	passarinho e do
+	bruto,
 	"""
 	msgClear
 	"""
-	bruto, eu tava louca
-	pra te conhecer.
+	eu tava louca pra
+	te conhecer.
 	"""
 	msgClear
 	"""
@@ -243,11 +241,7 @@ script 9 mmz1 {
 	"""
 	msgClear
 	"""
-	Eu vou desligá-los pra
-	"""
-	msgClear
-	"""
-	você.
+	Vou desligá-los pra você.
 	"""
 	msgClear
 	"""

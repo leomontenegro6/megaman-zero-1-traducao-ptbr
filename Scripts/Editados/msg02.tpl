@@ -341,12 +341,12 @@ script 12 mmz1 {
 	"""
 	Ufa! Zero, você tá
 	bem? Achei que eu
-	ia
+	ia morrer...
 	"""
 	msgClear
 	"""
-	morrer... obrigado
-	por nos salvar...
+	Obrigado por nos
+	salvar...
 	"""
 	end
 }
@@ -356,8 +356,8 @@ script 13 mmz1 {
 	"""
 	Eu tô bem, obrigado.
 	Poderia ter sido
-	pior.
-	Tá todo mundo bem?
+	pior. Tá todo mundo
+	legal?
 	"""
 	msgClear
 	"""
@@ -367,7 +367,7 @@ script 13 mmz1 {
 	"""
 	msgClear
 	"""
-	Vai ver a Ciel.
+	Vá ver a Ciel.
 	"""
 	end
 }
@@ -875,12 +875,12 @@ script 28 mmz1 {
 	"""
 	Eu invejo os
 	reploides mais
-	jovens... eu queria
+	jovens...
 	"""
 	msgClear
 	"""
-	ser um pouco mais
-	novo.
+	Queria ser um pouco
+	mais novo.
 	"""
 	end
 }
@@ -1126,11 +1126,11 @@ script 43 mmz1 {
 	"""
 	Eu queria ser um
 	reploide útil.
-	O senhor sabe
-	alguma coisa
 	"""
 	msgClear
 	"""
+	O senhor sabe
+	alguma coisa
 	pra eu fazer?
 	"""
 	end
@@ -2513,13 +2513,13 @@ script 200 mmz1 {
 		mugshot = 56
 	"""
 	E sem o
-	Transervidor, a
-	viagem pra Nova
-	Arcádia será
+	Transervidor,
+	a viagem pra
+	Nova Arcádia
 	"""
 	msgClear
 	"""
-	muito longa...
+	será muito longa...
 	"""
 	msgClear
 	"""
@@ -2768,21 +2768,14 @@ script 211 mmz1 {
 	"""
 	O Transervidor perto
 	da sua posição foi
-	adicionado ao
-	"""
-	msgClear
-	"""
-	nosso servidor.”
+	adicionado ao nosso
+	servidor.”
 	"""
 	msgClear
 	"""
 	CIEL:
 	“Você devia voltar
 	pra base e
-	"""
-	msgClear
-	"""
-	CIEL:
 	descansar...”
 	"""
 	end
@@ -2897,7 +2890,7 @@ script 223 mmz1 {
 	msgClear
 	"""
 	Zero, seja bastante
-	cuidado.
+	cuidadoso.
 	"""
 	end
 }
@@ -3040,14 +3033,10 @@ script 231 mmz1 {
 	mugshotShow
 		mugshot = 46
 	"""
-	Obrigada, Zero.
-	Eu teria virado
-	sei lá o que se
-	"""
-	msgClear
-	"""
-	não fosse por
-	você...
+	Obrigada, Zero. Eu
+	teria virado sabe-se
+	lá o que, se não
+	fosse por você...
 	"""
 	msgClear
 	"""
