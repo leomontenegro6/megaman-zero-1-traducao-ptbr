@@ -2328,8 +2328,8 @@ script 392 mmz1 {
 }
 script 395 mmz1 {
 	"""
-	Você quer salvar os
-	dados?
+	Você quer salvar
+	os dados?
 	  SIM
 	  NÃO
 	"""
@@ -2898,7 +2898,7 @@ script 501 mmz1 {
 	"""
 	Para jogar no DIFÍCIL,
 	salve os dados terminados
-	segure L quando escolher
+	e segure L quando escolher
 	“NOVO JOGO”.
 	"""
 	end
