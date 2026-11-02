@@ -1,4 +1,4 @@
-IMG
+[img]https://i.imgur.com/DscrxmS.png[/img]
 
 —————————————————–
 [b]Informações[/b]
@@ -36,7 +36,7 @@ Lá por volta de 2019, encorajados pelo surgimento do hack [url=https://www.romh
 
 Em 2026, iniciei o processo de port dos scripts da retradução do Mega Man Zero 1 do MJay para a versão de GBA. Estudei a forma com as ferramentas do repo do GreigaMaster funcionam, e percebi que ela faz uso do [url=https://github.com/Prof9/TextPet]TextPet[/url], o mesmo programa que usamos para lidar com a parte textual dos jogos da série Mega Man Battle Network. No repositório, os textos dos jogos foram previamente extraídos para arquivos .tpl editáveis por qualquer editor de texto, e o TextPet consegue converter os .tpl para arquivos binários de extensão .msg estando no mesmo formato esperado pelos jogos. No caso da coletânea, os arquivos .msg são inseridos direto no executável por outras ferramentas dentro do repositório do GreigaMaster, mas no caso da versão de GBA, os arquivos .msg não eram compatíveis, necessitando fazer alguns ajustes em cada um dos 20 scripts do jogo, no processo:
 
-[list=1]
+[list]
 [*]Consertar os ponteiros relativos no começo de cada sscript, que devem ser relativos ao arquivo em si e tendo que começar com 0000.
 [*]Localizar todos os ponteiros absolutos de cada script dentro da rom de GBA, para poder remanejá-los para o final da rom.
 [/list]
@@ -76,7 +76,7 @@ Na parte criativa, todos os textos foram traduzidos por humanos. Os gráficos ta
 
 Na parte de ferramentas, a grande maioria delas foi escrita à mão, porém algumas ferramentas menores foram criados com IA, mediante explicação da lógica desejada para o mesmo. Além disso, foi utilizado autocompletação de texto provindo do GitHub Copilot, para agilização de trabalhos repetitivos diversos.
 
-Dito isso, pode-se dizer que **95%** da tradução foi feita por trabalho humano. Isso pode ser aferido diretamente no código-fonte do projeto, indo em [url]https://github.com/leomontenegro6/megaman-zero-1-traducao-ptbr[/url].
+Dito isso, pode-se dizer que [b]95%[/b] da tradução foi feita por trabalho humano. Isso pode ser aferido diretamente no código-fonte do projeto, indo em [url]https://github.com/leomontenegro6/megaman-zero-1-traducao-ptbr[/url].
 
 —————————————————–
 [b]Equipe[/b]
@@ -145,19 +145,12 @@ Changelog
 [b]Imagens[/b]
 —————————————————–
 
-Termos Adaptados:
-
-[img]https://i.imgur.com/Rdsi4IM.png[/img] [img]https://i.imgur.com/u1JFyG2.png[/img] [img]https://i.imgur.com/46pbBfC.png[/img]
-[img]https://i.imgur.com/LPWAH3l.png[/img] [img]https://i.imgur.com/PwlRoVo.png[/img] [img]https://i.imgur.com/W4TOmoo.png[/img]
-[img]https://i.imgur.com/lybsuKE.png[/img] [img]https://i.imgur.com/nerjWeC.png[/img] [img]https://i.imgur.com/PibOuYG.png[/img]
-[img]https://i.imgur.com/w3gvsFc.png[/img] [img]https://i.imgur.com/GgPkhed.png[/img] [img]https://i.imgur.com/Hv1CYvE.png[/img]
-
-Termos Originais:
-
-[img]https://i.imgur.com/TNblKAc.png[/img] [img]https://i.imgur.com/KwhqnuM.png[/img] [img]https://i.imgur.com/Fo3X97S.png[/img]
-[img]https://i.imgur.com/l2RVZEv.png[/img] [img]https://i.imgur.com/HDZFrhi.png[/img] [img]https://i.imgur.com/jqrHZJF.png[/img]
-[img]https://i.imgur.com/Vwvrdei.png[/img] [img]https://i.imgur.com/eo3I1vs.png[/img] [img]https://i.imgur.com/oE4Lbkx.png[/img]
-[img]https://i.imgur.com/ShC7HsH.png[/img] [img]https://i.imgur.com/VopzXpt.png[/img] [img]https://i.imgur.com/wEIR1Gs.png[/img]
+[img]https://i.imgur.com/S35G32N.png[/img] [img]https://i.imgur.com/bAasav6.png[/img] [img]https://i.imgur.com/3Xe5wkd.png[/img]
+[img]https://i.imgur.com/W0yDGNZ.png[/img] [img]https://i.imgur.com/RgkXBRq.png[/img] [img]https://i.imgur.com/8gV5Xkc.png[/img]
+[img]https://i.imgur.com/VLk8FCs.png[/img] [img]https://i.imgur.com/NEP4Ymf.png[/img] [img]https://i.imgur.com/81qu3b4.png[/img]
+[img]https://i.imgur.com/81qu3b4.png[/img] [img]https://i.imgur.com/81qu3b4.png[/img] [img]https://i.imgur.com/yShtHJO.png[/img]
+[img]https://i.imgur.com/SWr9Mcp.png[/img] [img]https://i.imgur.com/BUqsVUC.png[/img] [img]https://i.imgur.com/EwzUZeH.png[/img]
+[img]https://i.imgur.com/fWU4QpK.png[/img]
 
 —————————————————–
 [b][i]Patch[/i][/b]
@@ -165,6 +158,6 @@ Termos Originais:
 
 Segue abaixo os patches da tradução, para download. Estão em formato IPS, e vocês podem aplicá-los através de programas como [url="https://www.romhacking.net/utilities/1040/"]Floating IPS[/url] ou similares.
 
-Esta tradução pode ser aplicada na ROM [b]Shantae Advance - Risky Revolution (World) (Limited Run Games).gba[/b], com header, de crc [b]31265C5D[/b] / md5sum [b]a82bd152baf314b0d69a12a47c38e60f[/b] / sha1 [b]13ba1ab9af37fe874bb8a7c34c7597fa8554a241[/b].
+Esta tradução pode ser aplicada na ROM [b]Megaman Zero (U).gba[/b], com header, de crc [b]9707D2A1[/b] / md5sum [b]b24a17d080a01a404cbf018ba42b9803[/b].
 
-[url="https://github.com/leomontenegro6/shantae-risky-revolution-traducao-ptbr/releases"][i]Download[/i][/url]
+[url="https://github.com/leomontenegro6/megaman-zero-1-traducao-ptbr/releases"][i]Download[/i][/url]
